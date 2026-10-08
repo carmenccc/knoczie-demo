@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+*.pem
+__pycache__/
+*.pyc
+api/scripts/.gemini_key

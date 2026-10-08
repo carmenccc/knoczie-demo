@@ -1,0 +1,52 @@
+[
+  {
+    "id": "feat-changkao",
+    "name": "常考词",
+    "type": "tag"
+  },
+  {
+    "id": "feat-shengpi",
+    "name": "生僻词",
+    "type": "tag"
+  },
+  {
+    "id": "feat-writing",
+    "name": "写作词汇",
+    "type": "tag"
+  },
+  {
+    "id": "feat-topic-animals",
+    "name": "animals",
+    "type": "tag"
+  },
+  {
+    "id": "feat-topic-school",
+    "name": "school",
+    "type": "tag"
+  },
+  {
+    "id": "feat-topic-environment",
+    "name": "environment",
+    "type": "tag"
+  },
+  {
+    "id": "feat-topic-family",
+    "name": "family",
+    "type": "tag"
+  },
+  {
+    "id": "feat-topic-food",
+    "name": "food",
+    "type": "tag"
+  },
+  {
+    "id": "feat-frequency",
+    "name": "frequency",
+    "type": "score"
+  },
+  {
+    "id": "feat-difficulty",
+    "name": "difficulty",
+    "type": "score"
+  }
+]

@@ -1,0 +1,2787 @@
+[
+  {
+    "id": "tr_above",
+    "wordLemma": "above",
+    "chTranslations": "adj.上面的,上述的,上文的|adv.在上面|prep.在...上方,过于,超出"
+  },
+  {
+    "id": "tr_active",
+    "wordLemma": "active",
+    "chTranslations": "adj.积极的,能起作用的,现行的,[语法]主动的,活动的,活跃的,活性的|n.[语法] 主动语态,积极分子"
+  },
+  {
+    "id": "tr_afraid",
+    "wordLemma": "afraid",
+    "chTranslations": "adj.害怕,担心"
+  },
+  {
+    "id": "tr_after",
+    "wordLemma": "after",
+    "chTranslations": "adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
+  },
+  {
+    "id": "tr_ago",
+    "wordLemma": "ago",
+    "chTranslations": "adv.以前的,以往的"
+  },
+  {
+    "id": "tr_all",
+    "wordLemma": "all",
+    "chTranslations": "adj.全部的,所有的,整个的|adv.完全,更加,越发|pron.全部"
+  },
+  {
+    "id": "tr_also",
+    "wordLemma": "also",
+    "chTranslations": "adv.也,同样"
+  },
+  {
+    "id": "tr_always",
+    "wordLemma": "always",
+    "chTranslations": "adv.总是,永远,始终"
+  },
+  {
+    "id": "tr_amazing",
+    "wordLemma": "amazing",
+    "chTranslations": "adj.令人惊异的"
+  },
+  {
+    "id": "tr_and",
+    "wordLemma": "and",
+    "chTranslations": "conj.和,及,并,然后,接着又|conj.及(或)"
+  },
+  {
+    "id": "tr_angry",
+    "wordLemma": "angry",
+    "chTranslations": "adj.生气的,愤怒的,狂暴的(风雨等)"
+  },
+  {
+    "id": "tr_any",
+    "wordLemma": "any",
+    "chTranslations": "adj.任何的,任何一种,所有的|pron.无论那一个,任何"
+  },
+  {
+    "id": "tr_anything",
+    "wordLemma": "anything",
+    "chTranslations": "pron.任何事"
+  },
+  {
+    "id": "tr_apple",
+    "wordLemma": "apple",
+    "chTranslations": "n.苹果,似苹果的果实"
+  },
+  {
+    "id": "tr_arm",
+    "wordLemma": "arm",
+    "chTranslations": "n.臂,臂状物,衣袖,海湾,武器|vt.供给,提供,武装,装备|vi.武装起来"
+  },
+  {
+    "id": "tr_ask",
+    "wordLemma": "ask",
+    "chTranslations": "vi.询问,问,要求|vt.问,要求,需要,邀请"
+  },
+  {
+    "id": "tr_at",
+    "wordLemma": "at",
+    "chTranslations": "prep.在,于,向,对准,在...方面;Austria,奥地利"
+  },
+  {
+    "id": "tr_ate",
+    "wordLemma": "ate",
+    "chTranslations": "vbl.吃 [军] Automatic Test Equipment,自动试验设备"
+  },
+  {
+    "id": "tr_attention",
+    "wordLemma": "attention",
+    "chTranslations": "n.注意,关心,关注,注意力,(口令)立正!"
+  },
+  {
+    "id": "tr_aunt",
+    "wordLemma": "aunt",
+    "chTranslations": "n.姑妈,伯母,舅妈,阿姨"
+  },
+  {
+    "id": "tr_autumn",
+    "wordLemma": "autumn",
+    "chTranslations": "n.秋天,成熟期,渐衰期"
+  },
+  {
+    "id": "tr_bad",
+    "wordLemma": "bad",
+    "chTranslations": "adj.劣质的,有害的,坏的,不利的,不健康的,严重的"
+  },
+  {
+    "id": "tr_badminton",
+    "wordLemma": "badminton",
+    "chTranslations": "n.羽毛球"
+  },
+  {
+    "id": "tr_bag",
+    "wordLemma": "bag",
+    "chTranslations": "n.袋子,猎获物"
+  },
+  {
+    "id": "tr_ball",
+    "wordLemma": "ball",
+    "chTranslations": "n.球,球状物,子弹,舞会,尽情地玩"
+  },
+  {
+    "id": "tr_bamboo",
+    "wordLemma": "bamboo",
+    "chTranslations": "n.竹子"
+  },
+  {
+    "id": "tr_banana",
+    "wordLemma": "banana",
+    "chTranslations": "n.香蕉"
+  },
+  {
+    "id": "tr_basket",
+    "wordLemma": "basket",
+    "chTranslations": "n.篮,一篮"
+  },
+  {
+    "id": "tr_basketball",
+    "wordLemma": "basketball",
+    "chTranslations": "n.篮球,篮球运动"
+  },
+  {
+    "id": "tr_bathroom",
+    "wordLemma": "bathroom",
+    "chTranslations": "n.浴室,盥洗室"
+  },
+  {
+    "id": "tr_beach",
+    "wordLemma": "beach",
+    "chTranslations": "n.海滩"
+  },
+  {
+    "id": "tr_bear",
+    "wordLemma": "bear",
+    "chTranslations": "n.熊|v.负担,忍受,带给,具有,挤,向"
+  },
+  {
+    "id": "tr_beautiful",
+    "wordLemma": "beautiful",
+    "chTranslations": "adj.美丽的,很好的"
+  },
+  {
+    "id": "tr_because",
+    "wordLemma": "because",
+    "chTranslations": "conj.adv.因为"
+  },
+  {
+    "id": "tr_become",
+    "wordLemma": "become",
+    "chTranslations": "vi.变成,成为,变得|vt.适合,相称"
+  },
+  {
+    "id": "tr_bed",
+    "wordLemma": "bed",
+    "chTranslations": "n.床,基础,路基,河底,海底,一堆,一层|vt.安置,嵌入,使睡,栽种|vi.上床,分层 教育学士 BEd(Bachelor of Education)"
+  },
+  {
+    "id": "tr_bedroom",
+    "wordLemma": "bedroom",
+    "chTranslations": "n.卧室"
+  },
+  {
+    "id": "tr_beef",
+    "wordLemma": "beef",
+    "chTranslations": "n.牛肉"
+  },
+  {
+    "id": "tr_before",
+    "wordLemma": "before",
+    "chTranslations": "adv.在前,以前|prep.在...之前|conj.在...之前,与其...宁可"
+  },
+  {
+    "id": "tr_behind",
+    "wordLemma": "behind",
+    "chTranslations": "adv.在后地|prep.在...之后"
+  },
+  {
+    "id": "tr_beside",
+    "wordLemma": "beside",
+    "chTranslations": "prep.在旁边,和...比较"
+  },
+  {
+    "id": "tr_best",
+    "wordLemma": "best",
+    "chTranslations": "adj.最好的|adv.最好地,最,极|n.最佳状态或作品,最好的东西"
+  },
+  {
+    "id": "tr_better",
+    "wordLemma": "better",
+    "chTranslations": "adj.较好的|adv.更好的,更多的,更佳的"
+  },
+  {
+    "id": "tr_between",
+    "wordLemma": "between",
+    "chTranslations": "prep.在...之间,连接...,由...协力合作"
+  },
+  {
+    "id": "tr_big",
+    "wordLemma": "big",
+    "chTranslations": "adj.大的,重要的,量大的,重要的|adv.夸大地,顺利"
+  },
+  {
+    "id": "tr_bigger",
+    "wordLemma": "bigger",
+    "chTranslations": "adj.大的,长大的"
+  },
+  {
+    "id": "tr_bike",
+    "wordLemma": "bike",
+    "chTranslations": "n.脚踏车,自行车"
+  },
+  {
+    "id": "tr_bird",
+    "wordLemma": "bird",
+    "chTranslations": "n.鸟,<俚>人|vi.在野外观察或鉴别鸟类"
+  },
+  {
+    "id": "tr_black",
+    "wordLemma": "black",
+    "chTranslations": "n.黑色,黑颜料,黑人|adj.黑色的,弄脏了的,忧郁的|vt.(使)变黑,涂黑"
+  },
+  {
+    "id": "tr_blackboard",
+    "wordLemma": "blackboard",
+    "chTranslations": "n.黑板"
+  },
+  {
+    "id": "tr_blue",
+    "wordLemma": "blue",
+    "chTranslations": "n.蓝色|adj.蓝色的,忧郁的,沮丧的"
+  },
+  {
+    "id": "tr_boat",
+    "wordLemma": "boat",
+    "chTranslations": "n.小船,艇|v.划船"
+  },
+  {
+    "id": "tr_boating",
+    "wordLemma": "boating",
+    "chTranslations": "n.划船"
+  },
+  {
+    "id": "tr_body",
+    "wordLemma": "body",
+    "chTranslations": "n.身体,肉体,人,尸体,主要部分,团体,大量|vt.赋以形体"
+  },
+  {
+    "id": "tr_book",
+    "wordLemma": "book",
+    "chTranslations": "n.书,书籍,卷,篇,帐簿,名册,工作簿|v.登记,预订,控告"
+  },
+  {
+    "id": "tr_bookstore",
+    "wordLemma": "bookstore",
+    "chTranslations": "n.书店"
+  },
+  {
+    "id": "tr_both",
+    "wordLemma": "both",
+    "chTranslations": "adj.两者,双方的|pron.双方,两者"
+  },
+  {
+    "id": "tr_bottle",
+    "wordLemma": "bottle",
+    "chTranslations": "n.瓶子|vt.用瓶装"
+  },
+  {
+    "id": "tr_bought",
+    "wordLemma": "bought",
+    "chTranslations": "vbl.buy的过去式和过去分词|adj.买来的"
+  },
+  {
+    "id": "tr_bowl",
+    "wordLemma": "bowl",
+    "chTranslations": "n.碗,碗状物,木球|v.滚,(板球)投球"
+  },
+  {
+    "id": "tr_box",
+    "wordLemma": "box",
+    "chTranslations": "n.盒子,箱,包厢,岗亭,一拳|v.装...入盒中,打耳光,拳击"
+  },
+  {
+    "id": "tr_boy",
+    "wordLemma": "boy",
+    "chTranslations": "n.男孩,儿子,孩子气的人,男仆"
+  },
+  {
+    "id": "tr_bread",
+    "wordLemma": "bread",
+    "chTranslations": "n.面包,生计"
+  },
+  {
+    "id": "tr_breath",
+    "wordLemma": "breath",
+    "chTranslations": "n.呼吸,气息,气味,空气,微风,暂停,瞬间"
+  },
+  {
+    "id": "tr_bridge",
+    "wordLemma": "bridge",
+    "chTranslations": "n.桥,船桥,鼻梁,桥牌|vt.架桥,渡过;网桥"
+  },
+  {
+    "id": "tr_broken",
+    "wordLemma": "broken",
+    "chTranslations": "adj.坏掉的,患病的,被制服的,断掉的 vbl.break的过去分词"
+  },
+  {
+    "id": "tr_brother",
+    "wordLemma": "brother",
+    "chTranslations": "n.兄弟"
+  },
+  {
+    "id": "tr_brown",
+    "wordLemma": "brown",
+    "chTranslations": "n.褐色|adj.褐色的,棕色的|v.(使)成褐色,晒黑"
+  },
+  {
+    "id": "tr_building",
+    "wordLemma": "building",
+    "chTranslations": "n.建筑物,营造物(如房屋,大楼,工厂,船等)"
+  },
+  {
+    "id": "tr_bunny",
+    "wordLemma": "bunny",
+    "chTranslations": "n.小兔子(儿童对兔子的昵称)"
+  },
+  {
+    "id": "tr_bus",
+    "wordLemma": "bus",
+    "chTranslations": "n.公共汽车,总线"
+  },
+  {
+    "id": "tr_businessman",
+    "wordLemma": "businessman",
+    "chTranslations": "n.商人"
+  },
+  {
+    "id": "tr_busy",
+    "wordLemma": "busy",
+    "chTranslations": "adj.忙碌的,热闹的,临时占用的"
+  },
+  {
+    "id": "tr_but",
+    "wordLemma": "but",
+    "chTranslations": "prep.除...以外|conj.而是,但是|adv.几乎,仅仅"
+  },
+  {
+    "id": "tr_buy",
+    "wordLemma": "buy",
+    "chTranslations": "v.买|n.购买,买卖"
+  },
+  {
+    "id": "tr_by",
+    "wordLemma": "by",
+    "chTranslations": "prep.在附近,在旁边,经,由,依据,按照,通过,用|adv.通过,经过,附近 [域] Belarus,白俄罗斯"
+  },
+  {
+    "id": "tr_cake",
+    "wordLemma": "cake",
+    "chTranslations": "n.蛋糕,饼,块,"
+  },
+  {
+    "id": "tr_camp",
+    "wordLemma": "camp",
+    "chTranslations": "n.露营地,阵营|vi.露营,扎营"
+  },
+  {
+    "id": "tr_candy",
+    "wordLemma": "candy",
+    "chTranslations": "n.糖果,冰糖|v.蜜饯,糖煮(水果)"
+  },
+  {
+    "id": "tr_cap",
+    "wordLemma": "cap",
+    "chTranslations": "n.帽子,军帽,(瓶)帽,(笔)帽|vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
+  },
+  {
+    "id": "tr_car",
+    "wordLemma": "car",
+    "chTranslations": "n.汽车,小汽车,车辆,客车,[铁]车厢"
+  },
+  {
+    "id": "tr_cartoon",
+    "wordLemma": "cartoon",
+    "chTranslations": "n.(报刊上的)政治性漫画,讽刺画,卡通画,漫画(常有解说词)v.画漫画|n.卡通片,动画片"
+  },
+  {
+    "id": "tr_cave",
+    "wordLemma": "cave",
+    "chTranslations": "n.洞穴,窑洞|vi.凹陷,投降|vt.挖洞,使凹陷"
+  },
+  {
+    "id": "tr_chair",
+    "wordLemma": "chair",
+    "chTranslations": "n.椅子,教授职位,主席位,讲座|vt.使入座,使就任要职"
+  },
+  {
+    "id": "tr_chase",
+    "wordLemma": "chase",
+    "chTranslations": "n.追赶,追击|vt.追赶,追逐,雕镂"
+  },
+  {
+    "id": "tr_cheetah",
+    "wordLemma": "cheetah",
+    "chTranslations": "n.[动]印度豹(一种似豹的动物,产于南亚及非洲)"
+  },
+  {
+    "id": "tr_chicken",
+    "wordLemma": "chicken",
+    "chTranslations": "n.小鸡,小鸟,鸡肉"
+  },
+  {
+    "id": "tr_children",
+    "wordLemma": "children",
+    "chTranslations": "n.(pl.)孩子,孩子们"
+  },
+  {
+    "id": "tr_chocolate",
+    "wordLemma": "chocolate",
+    "chTranslations": "n.巧克力,巧克力色"
+  },
+  {
+    "id": "tr_chopsticks",
+    "wordLemma": "chopsticks",
+    "chTranslations": "n.筷子"
+  },
+  {
+    "id": "tr_cinema",
+    "wordLemma": "cinema",
+    "chTranslations": "n.电影院,电影"
+  },
+  {
+    "id": "tr_classroom",
+    "wordLemma": "classroom",
+    "chTranslations": "n.教室"
+  },
+  {
+    "id": "tr_clean",
+    "wordLemma": "clean",
+    "chTranslations": "adj.清洁的,干净的,清白的|v.打扫,使干净,清扫"
+  },
+  {
+    "id": "tr_clever",
+    "wordLemma": "clever",
+    "chTranslations": "adj.机灵的,聪明的"
+  },
+  {
+    "id": "tr_climbing",
+    "wordLemma": "climbing",
+    "chTranslations": "adj.攀登的,上升的|n.攀登"
+  },
+  {
+    "id": "tr_clock",
+    "wordLemma": "clock",
+    "chTranslations": "n.时钟"
+  },
+  {
+    "id": "tr_club",
+    "wordLemma": "club",
+    "chTranslations": "n.俱乐部,夜总会,社,棍棒,(高尔夫球等的)球棒,(扑克牌)梅花|vt.棍打,协作,联合,把...当棍棒用"
+  },
+  {
+    "id": "tr_coach",
+    "wordLemma": "coach",
+    "chTranslations": "n.四轮大马车,长途汽车,教练|v.训练,指导"
+  },
+  {
+    "id": "tr_comic",
+    "wordLemma": "comic",
+    "chTranslations": "n.滑稽演员|adj.滑稽的,喜剧的"
+  },
+  {
+    "id": "tr_computer",
+    "wordLemma": "computer",
+    "chTranslations": "n.计算机,电脑"
+  },
+  {
+    "id": "tr_contest",
+    "wordLemma": "contest",
+    "chTranslations": "n.论争,竞赛|v.,争论,争辩,竞赛,争夺"
+  },
+  {
+    "id": "tr_cook",
+    "wordLemma": "cook",
+    "chTranslations": "n.厨师|v.烹调,煮,伪造"
+  },
+  {
+    "id": "tr_cooking",
+    "wordLemma": "cooking",
+    "chTranslations": "n.烹饪"
+  },
+  {
+    "id": "tr_could",
+    "wordLemma": "could",
+    "chTranslations": "vbl.can 的过去式"
+  },
+  {
+    "id": "tr_count",
+    "wordLemma": "count",
+    "chTranslations": "v.数,计算,计算在内,认为,有价值|n.计数,计算,注意,伯爵"
+  },
+  {
+    "id": "tr_country",
+    "wordLemma": "country",
+    "chTranslations": "n.国家,国土,[总称]国民,乡村,故乡|adj.乡下的,乡村的,[方]祖国的,故乡的"
+  },
+  {
+    "id": "tr_countryside",
+    "wordLemma": "countryside",
+    "chTranslations": "n.乡下地方,乡下居民"
+  },
+  {
+    "id": "tr_cousin",
+    "wordLemma": "cousin",
+    "chTranslations": "n.堂兄弟姊妹,表兄弟姊妹"
+  },
+  {
+    "id": "tr_crayon",
+    "wordLemma": "crayon",
+    "chTranslations": "n.有色粉笔,蜡笔,粉笔画"
+  },
+  {
+    "id": "tr_crossing",
+    "wordLemma": "crossing",
+    "chTranslations": "v.横越|n.横越,交叉口"
+  },
+  {
+    "id": "tr_cute",
+    "wordLemma": "cute",
+    "chTranslations": "adj.可爱的,聪明的,伶俐的,装腔作势的"
+  },
+  {
+    "id": "tr_cycling",
+    "wordLemma": "cycling",
+    "chTranslations": "n.骑脚踏车兜风,骑脚踏车消遣"
+  },
+  {
+    "id": "tr_dad",
+    "wordLemma": "dad",
+    "chTranslations": "n.爸爸,爹爹"
+  },
+  {
+    "id": "tr_dance",
+    "wordLemma": "dance",
+    "chTranslations": "n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术|v.跳舞,舞蹈,(旗等)飘扬"
+  },
+  {
+    "id": "tr_dancing",
+    "wordLemma": "dancing",
+    "chTranslations": "n.舞蹈"
+  },
+  {
+    "id": "tr_day",
+    "wordLemma": "day",
+    "chTranslations": "n.天,白天,日子,白昼,黎明,工作日,节日,重要日子"
+  },
+  {
+    "id": "tr_deep",
+    "wordLemma": "deep",
+    "chTranslations": "adj.深的,纵深的,远离中心的,深奥的,难懂的,(指人)诡计多端的,低沉的(声音)adv.深入地,迟|n.深渊,深处"
+  },
+  {
+    "id": "tr_delicious",
+    "wordLemma": "delicious",
+    "chTranslations": "adj.美味的"
+  },
+  {
+    "id": "tr_desk",
+    "wordLemma": "desk",
+    "chTranslations": "n.书桌,办公桌"
+  },
+  {
+    "id": "tr_diary",
+    "wordLemma": "diary",
+    "chTranslations": "n.日记"
+  },
+  {
+    "id": "tr_dictionary",
+    "wordLemma": "dictionary",
+    "chTranslations": "n.字典,词典"
+  },
+  {
+    "id": "tr_different",
+    "wordLemma": "different",
+    "chTranslations": "adj.不同的"
+  },
+  {
+    "id": "tr_dinner",
+    "wordLemma": "dinner",
+    "chTranslations": "n.正餐,宴会"
+  },
+  {
+    "id": "tr_dinosaur",
+    "wordLemma": "dinosaur",
+    "chTranslations": "n.恐龙"
+  },
+  {
+    "id": "tr_dirty",
+    "wordLemma": "dirty",
+    "chTranslations": "adj.肮脏的,卑鄙的,下流的,暴风雨的,恶劣的(天气)vt.弄脏|vi.变脏"
+  },
+  {
+    "id": "tr_do",
+    "wordLemma": "do",
+    "chTranslations": "v.做,实行,尽力,给予,可用,制作,算出,解答 [域] Dominican Republic ,多米尼加共和国"
+  },
+  {
+    "id": "tr_doctor",
+    "wordLemma": "doctor",
+    "chTranslations": "n.医生,博士,[古]学者,<俚>修理师|vt.授以博士学位,诊断,修改,<美>治疗,搀混(食物、饮料),修改|vi.行医"
+  },
+  {
+    "id": "tr_dog",
+    "wordLemma": "dog",
+    "chTranslations": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋|vt.跟踪,尾随"
+  },
+  {
+    "id": "tr_door",
+    "wordLemma": "door",
+    "chTranslations": "n.门,通道,家,户"
+  },
+  {
+    "id": "tr_down",
+    "wordLemma": "down",
+    "chTranslations": "adj.向下的|adv.向下,在下面,下去,降下|prep.往下,沿着|n.绒毛,软毛,开阔的高地"
+  },
+  {
+    "id": "tr_drank",
+    "wordLemma": "drank",
+    "chTranslations": "vbl.drink的过去式"
+  },
+  {
+    "id": "tr_draw",
+    "wordLemma": "draw",
+    "chTranslations": "v.拉,曳,牵,画,绘制,拖曳|vt.汲取,领取,提取,引起,吸引|vi.向...移动,挨近|n.平局,和局,拖曳"
+  },
+  {
+    "id": "tr_dream",
+    "wordLemma": "dream",
+    "chTranslations": "v.做梦,梦见,梦想,想到|n.梦,梦想"
+  },
+  {
+    "id": "tr_drink",
+    "wordLemma": "drink",
+    "chTranslations": "n.饮料,酒,酗酒,一口(或一些)饮料|v.喝,喝酒,(植物、土壤等的)吸水,举杯庆贺"
+  },
+  {
+    "id": "tr_drinking",
+    "wordLemma": "drinking",
+    "chTranslations": "n.喝,喝酒"
+  },
+  {
+    "id": "tr_driver",
+    "wordLemma": "driver",
+    "chTranslations": "n.驾驶员|n.[计] 驱动器,驱动程序|n.[机]起子,主动轮,传动器"
+  },
+  {
+    "id": "tr_duck",
+    "wordLemma": "duck",
+    "chTranslations": "n.鸭子,急忙蹲下,闪避,<俚> 人,家伙|vi.没入水中,闪避|vt.猛按...入水,躲避"
+  },
+  {
+    "id": "tr_each",
+    "wordLemma": "each",
+    "chTranslations": "adj.各自的,每个的,每一|pron.各,各自,每个|adv.每个"
+  },
+  {
+    "id": "tr_ear",
+    "wordLemma": "ear",
+    "chTranslations": "n.耳朵,倾听,听觉,听力,穗|vi.抽穗"
+  },
+  {
+    "id": "tr_early",
+    "wordLemma": "early",
+    "chTranslations": "adj.早的,早熟的,及早的,早先的,早期的|adv.早,在初期"
+  },
+  {
+    "id": "tr_easy",
+    "wordLemma": "easy",
+    "chTranslations": "adj.容易的,安逸的,舒适的,宽裕的,小康的,从容的,宽容的,流畅的|adv.不费力的,轻松,悠闲,慢慢地|n.短暂的休息"
+  },
+  {
+    "id": "tr_eating",
+    "wordLemma": "eating",
+    "chTranslations": "n.吃,食物|adj.食用的,可生食的"
+  },
+  {
+    "id": "tr_egg",
+    "wordLemma": "egg",
+    "chTranslations": "n.蛋,鸡蛋,卵|v.怂恿,怂恿"
+  },
+  {
+    "id": "tr_eight",
+    "wordLemma": "eight",
+    "chTranslations": "adj.八的|num.八,八个,第八|n.八字形"
+  },
+  {
+    "id": "tr_eighteen",
+    "wordLemma": "eighteen",
+    "chTranslations": "adj.十八的,十八个的"
+  },
+  {
+    "id": "tr_elephant",
+    "wordLemma": "elephant",
+    "chTranslations": "n.象,一种纸张的尺寸"
+  },
+  {
+    "id": "tr_eleven",
+    "wordLemma": "eleven",
+    "chTranslations": "n.十一"
+  },
+  {
+    "id": "tr_else",
+    "wordLemma": "else",
+    "chTranslations": "adj.别的,其他的|adv.另外,其他"
+  },
+  {
+    "id": "tr_email",
+    "wordLemma": "email",
+    "chTranslations": "n.电子信函"
+  },
+  {
+    "id": "tr_enjoy",
+    "wordLemma": "enjoy",
+    "chTranslations": "vt.享受...的乐趣,欣赏,喜爱|v.满意"
+  },
+  {
+    "id": "tr_eraser",
+    "wordLemma": "eraser",
+    "chTranslations": "n.擦除器,尤指墨水消除剂,橡皮"
+  },
+  {
+    "id": "tr_evening",
+    "wordLemma": "evening",
+    "chTranslations": "n.傍晚,晚间,后期,(联欢性的)晚会"
+  },
+  {
+    "id": "tr_every",
+    "wordLemma": "every",
+    "chTranslations": "adj.每一的,每个的,全部的,每隔...的"
+  },
+  {
+    "id": "tr_everyone",
+    "wordLemma": "everyone",
+    "chTranslations": "pron.每个人,人人"
+  },
+  {
+    "id": "tr_everywhere",
+    "wordLemma": "everywhere",
+    "chTranslations": "adv.各处,到处"
+  },
+  {
+    "id": "tr_excited",
+    "wordLemma": "excited",
+    "chTranslations": "兴奋的"
+  },
+  {
+    "id": "tr_exercise",
+    "wordLemma": "exercise",
+    "chTranslations": "n.练习,习题,训练,锻炼,演习|v.训练,锻炼|vt.行使,使担扰"
+  },
+  {
+    "id": "tr_exhibition",
+    "wordLemma": "exhibition",
+    "chTranslations": "n.表现,展览会,展览品,显示"
+  },
+  {
+    "id": "tr_eye",
+    "wordLemma": "eye",
+    "chTranslations": "n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼|vt.看,注视,在...上打眼"
+  },
+  {
+    "id": "tr_face",
+    "wordLemma": "face",
+    "chTranslations": "n.脸,面容,表情,威信,正面,地形,外观|vt.面对,面向,面临,承认,抹盖|vi.朝,向"
+  },
+  {
+    "id": "tr_factory",
+    "wordLemma": "factory",
+    "chTranslations": "n.工厂,制造厂,商住花园外的代理"
+  },
+  {
+    "id": "tr_fall",
+    "wordLemma": "fall",
+    "chTranslations": "n.秋天,落下,瀑布,降低,落差,采伐量,堕落,下降|vi.倒下,落下,来临,失守,变成,垮台,下跌,阵亡|vt.<美><英方>击倒,砍倒(树木)adj.秋天的"
+  },
+  {
+    "id": "tr_family",
+    "wordLemma": "family",
+    "chTranslations": "n.家庭,家族,家属,亲属,子女,僚属|adj.家庭的,家族的"
+  },
+  {
+    "id": "tr_fan",
+    "wordLemma": "fan",
+    "chTranslations": "n.扇子,鼓风机,风扇,迷,狂热者,爱好者|vt.煽动,刺激,扇,吹拂|vi.飘动,成扇形散开"
+  },
+  {
+    "id": "tr_far",
+    "wordLemma": "far",
+    "chTranslations": "adj.(常用于书面语)远的,久远的,遥远的|adv.(表示空间或时间上的距离)远,很远,遥远地,久远地,甚远地,很,很晚地|n.远处,远方"
+  },
+  {
+    "id": "tr_farmer",
+    "wordLemma": "farmer",
+    "chTranslations": "n.农夫,百姓,农民,农场主,承包主,牧场主,畜牧者"
+  },
+  {
+    "id": "tr_fast",
+    "wordLemma": "fast",
+    "chTranslations": "adj.紧的,牢的,忠实的,快速的,耐久的,紧的|adv.牢固地,很快地,紧紧地,彻底地|n.禁食,绝食,斋戒|vi.绝食,斋戒"
+  },
+  {
+    "id": "tr_faster",
+    "wordLemma": "faster",
+    "chTranslations": "adj.更快的,adv.更快地"
+  },
+  {
+    "id": "tr_fat",
+    "wordLemma": "fat",
+    "chTranslations": "n.脂肪,肥肉|adj.肥大的,丰满的,肥的,胖的,油腻的|vt.养肥,在...中加入脂肪|vi.长肥;File Allocation Table,文件分配表"
+  },
+  {
+    "id": "tr_father",
+    "wordLemma": "father",
+    "chTranslations": "n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者|vt.当...的父亲,保护,创立,治理,发明,培养"
+  },
+  {
+    "id": "tr_favourite",
+    "wordLemma": "favourite",
+    "chTranslations": "adj.特别喜爱的,中意的|n.特别喜爱的(或物)"
+  },
+  {
+    "id": "tr_feature",
+    "wordLemma": "feature",
+    "chTranslations": "n.面貌的一部分(眼,口,鼻等)特征,容貌,特色,特写|vt.是...的特色,特写,放映|vi.起重要作用"
+  },
+  {
+    "id": "tr_feel",
+    "wordLemma": "feel",
+    "chTranslations": "vt.摸,触,试探,感觉,觉得,触摸,以为|vi.有知觉,(人)有某种感觉,摸索,同情|n.感觉,觉得,触摸"
+  },
+  {
+    "id": "tr_fell",
+    "wordLemma": "fell",
+    "chTranslations": "vbl.fall 的过去式|vt.击倒,打倒(疾病等),致于...死地,砍伐|n.一季所伐的木材,兽皮,羊毛|adj.凶猛的,可怕的"
+  },
+  {
+    "id": "tr_felt",
+    "wordLemma": "felt",
+    "chTranslations": "n.毡,毡制品,(造纸用的)毛布|vt.把...制成毡,使粘结|vi.粘结 vbl.feel的过去式和过去分词"
+  },
+  {
+    "id": "tr_ferry",
+    "wordLemma": "ferry",
+    "chTranslations": "n.摆渡,渡船,渡口|vt.渡运,(乘渡船)渡过,运送|vi.摆渡,(船)来往行驶"
+  },
+  {
+    "id": "tr_few",
+    "wordLemma": "few",
+    "chTranslations": "adj.很少的,不多的,少数的|n.[表示否定]很少数,几乎没有"
+  },
+  {
+    "id": "tr_fifteen",
+    "wordLemma": "fifteen",
+    "chTranslations": "adj.十五"
+  },
+  {
+    "id": "tr_fifth",
+    "wordLemma": "fifth",
+    "chTranslations": "adj.第五的"
+  },
+  {
+    "id": "tr_film",
+    "wordLemma": "film",
+    "chTranslations": "n.薄膜,膜层,胶卷,影片,薄雾,轻烟,电影|vt.在...上覆以薄膜,拍成电影|vi.生薄膜,变成朦胧,拍电影"
+  },
+  {
+    "id": "tr_find",
+    "wordLemma": "find",
+    "chTranslations": "vt.找到,发现,感到,查明,得到,认为,见到...的存在|vi.裁决|n.发现 [计] 在文件中查找指定的字符串"
+  },
+  {
+    "id": "tr_finish",
+    "wordLemma": "finish",
+    "chTranslations": "n.完成,结束,磨光,末道漆,完美|vt.完成,结束,用完,毁掉,使完美|vi.结束,终结,停止,终止"
+  },
+  {
+    "id": "tr_first",
+    "wordLemma": "first",
+    "chTranslations": "adv.首先,最初,第一(列举条目等用),优先|adj.第一的|num.第一(个)n.开始,第一,(比赛)冠军"
+  },
+  {
+    "id": "tr_fish",
+    "wordLemma": "fish",
+    "chTranslations": "n.鱼,鱼肉,鱼类,接合板|vt.钓,钓鱼,查出,用接合板连接|vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
+  },
+  {
+    "id": "tr_fisherman",
+    "wordLemma": "fisherman",
+    "chTranslations": "n.渔民,渔夫"
+  },
+  {
+    "id": "tr_five",
+    "wordLemma": "five",
+    "chTranslations": "num.五,五个(人或物)n.五个一组,<口>五厘息金的证券"
+  },
+  {
+    "id": "tr_fixed",
+    "wordLemma": "fixed",
+    "chTranslations": "adj.固定的,确定的,准备好的,固执的,不易发挥的,<美口>(在经济上)处境...的"
+  },
+  {
+    "id": "tr_floor",
+    "wordLemma": "floor",
+    "chTranslations": "n.(房间,走廊等的)地面,地板,基底,(室内的)场地,层,海底,议员席|vt.在...上铺(地板),击倒,(被困难)难倒"
+  },
+  {
+    "id": "tr_flower",
+    "wordLemma": "flower",
+    "chTranslations": "n.花,开花的植物,花卉,精华,盛时|vi.开花,旺盛,成熟|vt.用花装饰,使开花"
+  },
+  {
+    "id": "tr_follow",
+    "wordLemma": "follow",
+    "chTranslations": "vt.跟随,追随,沿...而行,理解,遵循,从事,追求,注视|vi.跟随,接着|n.跟随,追随"
+  },
+  {
+    "id": "tr_food",
+    "wordLemma": "food",
+    "chTranslations": "n.食物,养料"
+  },
+  {
+    "id": "tr_fool",
+    "wordLemma": "fool",
+    "chTranslations": "n.愚人,白痴,莽汉,受骗者,奶油拌水果|vt.愚弄,欺骗,浪费|vi.干傻事,开玩笑,游荡|adj.傻的"
+  },
+  {
+    "id": "tr_foot",
+    "wordLemma": "foot",
+    "chTranslations": "n.足,底部,英尺,音步(英诗),步调,步兵,末尾|vt.走在...上,支付,给...换底,结算|vi.步行,跳舞,总计"
+  },
+  {
+    "id": "tr_forest",
+    "wordLemma": "forest",
+    "chTranslations": "n.森林,林木,<英>御猎场|adj.森林的,住在森林中的|vt.植树于"
+  },
+  {
+    "id": "tr_fork",
+    "wordLemma": "fork",
+    "chTranslations": "n.叉,耙,叉形物,餐叉"
+  },
+  {
+    "id": "tr_four",
+    "wordLemma": "four",
+    "chTranslations": "num.四,四个,第四(卷,章,叶等)"
+  },
+  {
+    "id": "tr_fourteen",
+    "wordLemma": "fourteen",
+    "chTranslations": "num.十四"
+  },
+  {
+    "id": "tr_fourth",
+    "wordLemma": "fourth",
+    "chTranslations": "num.第四个"
+  },
+  {
+    "id": "tr_fresh",
+    "wordLemma": "fresh",
+    "chTranslations": "adj.新鲜的,无经验的,生的,冒失的,鲜艳的|adv.最新地,刚刚|n.开始,泛滥"
+  },
+  {
+    "id": "tr_fridge",
+    "wordLemma": "fridge",
+    "chTranslations": "n.电冰箱"
+  },
+  {
+    "id": "tr_friend",
+    "wordLemma": "friend",
+    "chTranslations": "n.朋友,赞助者,助手"
+  },
+  {
+    "id": "tr_friendly",
+    "wordLemma": "friendly",
+    "chTranslations": "adj.友好的,友谊的"
+  },
+  {
+    "id": "tr_front",
+    "wordLemma": "front",
+    "chTranslations": "n.前面,开头,前线,(政治上的)阵线,态度,外表|vt.面对,朝向,对付|vi.朝向"
+  },
+  {
+    "id": "tr_fruit",
+    "wordLemma": "fruit",
+    "chTranslations": "n.水果,果实,果类,成果|vi.结果实"
+  },
+  {
+    "id": "tr_funny",
+    "wordLemma": "funny",
+    "chTranslations": "adj.有趣的,好笑的,滑稽的,奇异的,古怪的|n.滑稽人物"
+  },
+  {
+    "id": "tr_fur",
+    "wordLemma": "fur",
+    "chTranslations": "n.毛皮,毛,软毛"
+  },
+  {
+    "id": "tr_game",
+    "wordLemma": "game",
+    "chTranslations": "n.比赛,游戏,竞赛,[复]运动会,玩耍,比分,比赛规则,策略|vi.赌博|adj.勇敢的,有胆量的,关于野味的,跛的"
+  },
+  {
+    "id": "tr_gave",
+    "wordLemma": "gave",
+    "chTranslations": "vbl.give的过去式"
+  },
+  {
+    "id": "tr_get",
+    "wordLemma": "get",
+    "chTranslations": "vt.获得,变成,收获,使得,挣得,受到(惩罚,打击等),染上,抓住|vi.到达,成为,变得|n.生殖,幼兽"
+  },
+  {
+    "id": "tr_gift",
+    "wordLemma": "gift",
+    "chTranslations": "n.赠品,礼物,天赋,才能"
+  },
+  {
+    "id": "tr_giraffe",
+    "wordLemma": "giraffe",
+    "chTranslations": "n.长颈鹿,鹿豹座"
+  },
+  {
+    "id": "tr_girl",
+    "wordLemma": "girl",
+    "chTranslations": "n.女孩,少女,女仆,(商店等的)女工作人员"
+  },
+  {
+    "id": "tr_glasses",
+    "wordLemma": "glasses",
+    "chTranslations": "n.眼镜"
+  },
+  {
+    "id": "tr_goal",
+    "wordLemma": "goal",
+    "chTranslations": "n.目的,目标,守门员,球门,(球赛等的)得分"
+  },
+  {
+    "id": "tr_grandfather",
+    "wordLemma": "grandfather",
+    "chTranslations": "n.祖父,始祖"
+  },
+  {
+    "id": "tr_grandma",
+    "wordLemma": "grandma",
+    "chTranslations": "n.奶奶"
+  },
+  {
+    "id": "tr_grandmother",
+    "wordLemma": "grandmother",
+    "chTranslations": "n.祖母"
+  },
+  {
+    "id": "tr_grandpa",
+    "wordLemma": "grandpa",
+    "chTranslations": "n.爷爷"
+  },
+  {
+    "id": "tr_grandparent",
+    "wordLemma": "grandparent",
+    "chTranslations": "n.祖父或祖母,祖父母"
+  },
+  {
+    "id": "tr_grape",
+    "wordLemma": "grape",
+    "chTranslations": "n.葡萄,葡萄树"
+  },
+  {
+    "id": "tr_grass",
+    "wordLemma": "grass",
+    "chTranslations": "n.草"
+  },
+  {
+    "id": "tr_green",
+    "wordLemma": "green",
+    "chTranslations": "n.绿色,绿色颜料,绿色物品|adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
+  },
+  {
+    "id": "tr_gym",
+    "wordLemma": "gym",
+    "chTranslations": "gymnasium 体育|n.体育馆,体操"
+  },
+  {
+    "id": "tr_had",
+    "wordLemma": "had",
+    "chTranslations": "vbl.have 的过去式和过去分词|conj.有"
+  },
+  {
+    "id": "tr_hair",
+    "wordLemma": "hair",
+    "chTranslations": "n.头发,毛发,毛状物,绒毛,些微"
+  },
+  {
+    "id": "tr_half",
+    "wordLemma": "half",
+    "chTranslations": "n.一半,半时,(球赛)半场,半学年|adj.一半的,不完全的,半途的|adv.一半地,部分地,相当的"
+  },
+  {
+    "id": "tr_hall",
+    "wordLemma": "hall",
+    "chTranslations": "n.会堂,礼堂,大厅,走廊,门厅"
+  },
+  {
+    "id": "tr_hamburger",
+    "wordLemma": "hamburger",
+    "chTranslations": "n.<美> 碎牛肉,牛肉饼,汉堡包"
+  },
+  {
+    "id": "tr_hand",
+    "wordLemma": "hand",
+    "chTranslations": "n.手,掌管,协助,支配,插手,指针,雇员,手艺|vt.支持,搀扶,交给"
+  },
+  {
+    "id": "tr_happy",
+    "wordLemma": "happy",
+    "chTranslations": "adj.快乐的,幸福的,陶醉于...的,恰当的"
+  },
+  {
+    "id": "tr_hat",
+    "wordLemma": "hat",
+    "chTranslations": "n.帽子|vt.戴帽子"
+  },
+  {
+    "id": "tr_he",
+    "wordLemma": "he",
+    "chTranslations": "pron.他|n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
+  },
+  {
+    "id": "tr_head",
+    "wordLemma": "head",
+    "chTranslations": "n.头,头脑,领袖,(队伍,名单等)最前的部分,人,顶点|vt.作为...的首领,朝向,前进,用头顶|vi.成头状物,出发|adj.头的,主要的"
+  },
+  {
+    "id": "tr_healthy",
+    "wordLemma": "healthy",
+    "chTranslations": "adj.健康的,健壮的,有益于健康的"
+  },
+  {
+    "id": "tr_hear",
+    "wordLemma": "hear",
+    "chTranslations": "vt.听到,听说,听取,审理,允许|vi.听见,听到"
+  },
+  {
+    "id": "tr_heavier",
+    "wordLemma": "heavier",
+    "chTranslations": "adj.沉重的,巨大的"
+  },
+  {
+    "id": "tr_helmet",
+    "wordLemma": "helmet",
+    "chTranslations": "n.头盔,钢盔"
+  },
+  {
+    "id": "tr_help",
+    "wordLemma": "help",
+    "chTranslations": "n.帮忙,补救办法,助手,治疗,<美>佣工|vt.帮助,助长,接济,治疗,款待|vi.有用,救命,招待 [计] 显示命令格式的简短概述"
+  },
+  {
+    "id": "tr_helpful",
+    "wordLemma": "helpful",
+    "chTranslations": "adj.有帮助的,有用的,有益的"
+  },
+  {
+    "id": "tr_her",
+    "wordLemma": "her",
+    "chTranslations": "pron.她的,她"
+  },
+  {
+    "id": "tr_hers",
+    "wordLemma": "hers",
+    "chTranslations": "pron.她的"
+  },
+  {
+    "id": "tr_high",
+    "wordLemma": "high",
+    "chTranslations": "n.高度,高处|adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的|adv.高度地,奢侈地,高价地"
+  },
+  {
+    "id": "tr_hiking",
+    "wordLemma": "hiking",
+    "chTranslations": "n.徒步旅行"
+  },
+  {
+    "id": "tr_hill",
+    "wordLemma": "hill",
+    "chTranslations": "n.小山,丘陵,斜坡,山岗"
+  },
+  {
+    "id": "tr_him",
+    "wordLemma": "him",
+    "chTranslations": "pron.他"
+  },
+  {
+    "id": "tr_his",
+    "wordLemma": "his",
+    "chTranslations": "pron.他的"
+  },
+  {
+    "id": "tr_hobby",
+    "wordLemma": "hobby",
+    "chTranslations": "n.业余爱好"
+  },
+  {
+    "id": "tr_holiday",
+    "wordLemma": "holiday",
+    "chTranslations": "n.假日,节日,假期"
+  },
+  {
+    "id": "tr_hospital",
+    "wordLemma": "hospital",
+    "chTranslations": "n.医院"
+  },
+  {
+    "id": "tr_hot",
+    "wordLemma": "hot",
+    "chTranslations": "adj.热的,热情的,辣的,激动的,紧迫的,节奏强的|adv.热,热切的,紧迫地"
+  },
+  {
+    "id": "tr_hotel",
+    "wordLemma": "hotel",
+    "chTranslations": "n.旅馆,客栈,<俚>监狱"
+  },
+  {
+    "id": "tr_house",
+    "wordLemma": "house",
+    "chTranslations": "n.房子,住宅,库房,机构,家庭,家族,议院,剧场|vt.给...房子住,收藏,覆盖|vi.住,躲藏(up)"
+  },
+  {
+    "id": "tr_hurt",
+    "wordLemma": "hurt",
+    "chTranslations": "v.刺痛,伤害,(使)痛心,(使)伤感情,危害,损害,受伤|n.伤痛,伤害"
+  },
+  {
+    "id": "tr_idea",
+    "wordLemma": "idea",
+    "chTranslations": "n.想法,念头,意见,主意,思想,观念,概念"
+  },
+  {
+    "id": "tr_if",
+    "wordLemma": "if",
+    "chTranslations": "conj.(表条件)如果,(表假设)要是,是否,即使|n.条件,设想"
+  },
+  {
+    "id": "tr_ill",
+    "wordLemma": "ill",
+    "chTranslations": "adj.有病的,坏的,恶意的,生病"
+  },
+  {
+    "id": "tr_in",
+    "wordLemma": "in",
+    "chTranslations": "prep.在...之内(上),在...期间,从事于,符合,穿着|adv.进入,朝里,在家,已到达(来临)|adj.在里面的,执政的|n.执政者,入口;India,印度;In,元素铟(indium);Intelligent Network,智能网络"
+  },
+  {
+    "id": "tr_interesting",
+    "wordLemma": "interesting",
+    "chTranslations": "adj.有趣味的,引起好奇(或注意)的"
+  },
+  {
+    "id": "tr_island",
+    "wordLemma": "island",
+    "chTranslations": "n.岛,岛屿,岛状物(孤立状态的物),安全岛|vt.使成岛状,孤立"
+  },
+  {
+    "id": "tr_its",
+    "wordLemma": "its",
+    "chTranslations": "pron.它的"
+  },
+  {
+    "id": "tr_jasmine",
+    "wordLemma": "jasmine",
+    "chTranslations": "n.茉莉,素馨,淡黄色"
+  },
+  {
+    "id": "tr_job",
+    "wordLemma": "job",
+    "chTranslations": "n.工作,零活,<口>职位,事情,<圣经>约伯,极有耐心的人|vi.做零工,打杂,做股票经纪,假公济私|vt.代客买卖(股票,货物等),批发,承包,欺骗"
+  },
+  {
+    "id": "tr_join",
+    "wordLemma": "join",
+    "chTranslations": "vi.参加,结合,加入|vt.连接,结合,参加,加入|n.连接,结合,接合点 [计] 用子目录名取代驱动器符"
+  },
+  {
+    "id": "tr_juice",
+    "wordLemma": "juice",
+    "chTranslations": "n.(水果)汁,液"
+  },
+  {
+    "id": "tr_jumping",
+    "wordLemma": "jumping",
+    "chTranslations": "adj.跳跃的"
+  },
+  {
+    "id": "tr_keep",
+    "wordLemma": "keep",
+    "chTranslations": "n.保持,保养,生计,监狱,[史]要塞|vt.保持,保存,遵守,经营,看守,拘留,维持,记(日记,帐等)vi.保持,继续不断"
+  },
+  {
+    "id": "tr_key",
+    "wordLemma": "key",
+    "chTranslations": "n.钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害|vt.调节...的音调,锁上,插上栓,提供线索|vi.使用钥匙|n.[乐]键,调,基调"
+  },
+  {
+    "id": "tr_kilogram",
+    "wordLemma": "kilogram",
+    "chTranslations": "n.[物]千克,公斤"
+  },
+  {
+    "id": "tr_kind",
+    "wordLemma": "kind",
+    "chTranslations": "n.种类,性质|adj.仁慈的,和蔼的,亲切的,友爱的"
+  },
+  {
+    "id": "tr_kitchen",
+    "wordLemma": "kitchen",
+    "chTranslations": "n.厨房,炊具,炊事人员"
+  },
+  {
+    "id": "tr_kite",
+    "wordLemma": "kite",
+    "chTranslations": "n.风筝,(微风时使用的)高而轻的帆,<俚>[商]空头支票,试探性行动|vi.象风筝一样飞,轻快地移动,使用空头支票|vt.使上升,骗钱"
+  },
+  {
+    "id": "tr_kitten",
+    "wordLemma": "kitten",
+    "chTranslations": "n.小猫,小动物"
+  },
+  {
+    "id": "tr_knife",
+    "wordLemma": "knife",
+    "chTranslations": "n.刀,餐刀"
+  },
+  {
+    "id": "tr_know",
+    "wordLemma": "know",
+    "chTranslations": "v.知道,了解,认识,熟悉,认出,分辨,确信"
+  },
+  {
+    "id": "tr_lamp",
+    "wordLemma": "lamp",
+    "chTranslations": "n.灯|vt.照亮"
+  },
+  {
+    "id": "tr_last",
+    "wordLemma": "last",
+    "chTranslations": "adj.最后的,临终的,末尾的,最近的,结论性的|vi.持续,支持,维持|vt.使维持,楦|adv.最后,后来|n.最后,末尾,临终,鞋楦头"
+  },
+  {
+    "id": "tr_late",
+    "wordLemma": "late",
+    "chTranslations": "adj.迟的,晚(期)的,已故的,新近的|adv.晚,迟,最近,在晚期"
+  },
+  {
+    "id": "tr_leaf",
+    "wordLemma": "leaf",
+    "chTranslations": "n.叶,树叶,(书的)一张(两叶),页|vi.生叶,翻书页|vt.翻...的页"
+  },
+  {
+    "id": "tr_learn",
+    "wordLemma": "learn",
+    "chTranslations": "vi.学习,听到,获悉|vt.学习,学会,认识到"
+  },
+  {
+    "id": "tr_left",
+    "wordLemma": "left",
+    "chTranslations": "adj.左边的,左倾的,左侧的,左派的,左翼的|adv.在左面|n.左,左边,左派 vbl.leave的过去式和过去分词"
+  },
+  {
+    "id": "tr_leg",
+    "wordLemma": "leg",
+    "chTranslations": "n.腿,胫,旅程的一段|vi.走,跑"
+  },
+  {
+    "id": "tr_lesson",
+    "wordLemma": "lesson",
+    "chTranslations": "n.功课,(一节)课,[pl.] 课程,教训"
+  },
+  {
+    "id": "tr_letter",
+    "wordLemma": "letter",
+    "chTranslations": "n.文字,字母,信函,字面意义,铅字,(pl.)证书,(pl.)文学,学问|vt.用字母标明,在...上刻(或题)字|vi.写印刷体字母"
+  },
+  {
+    "id": "tr_light",
+    "wordLemma": "light",
+    "chTranslations": "n.光,日光,发光体,灯|adj.轻的,发光的,明亮的,浅的|vt.点燃,照亮|adv.轻地|vi.点着,变亮"
+  },
+  {
+    "id": "tr_like",
+    "wordLemma": "like",
+    "chTranslations": "n.爱好,同样的人(或物)adj.相似的,同样的|vt.喜欢,希望,愿意|vi.喜欢,希望|prep.象,如同|adv.可能"
+  },
+  {
+    "id": "tr_little",
+    "wordLemma": "little",
+    "chTranslations": "n.少许,一会儿,短时间|adj.很少的,矮小的,短暂的,琐碎的|adv.很少,稍微,完全不"
+  },
+  {
+    "id": "tr_live",
+    "wordLemma": "live",
+    "chTranslations": "adj.活的,生动的,精力充沛的,实况转播的,点燃的|vi.活着,生活,居住,流在人们记忆中|vt.过着,度过,经历|adv.以实况地"
+  },
+  {
+    "id": "tr_long",
+    "wordLemma": "long",
+    "chTranslations": "adj.长的,长期的,做多头的,高的|vi.渴望,热望|adv.长期地,始终|n.长时间,(市场上)做多头的人,[语音]长音节"
+  },
+  {
+    "id": "tr_longer",
+    "wordLemma": "longer",
+    "chTranslations": "adj.比较久的|adv.比较久"
+  },
+  {
+    "id": "tr_lost",
+    "wordLemma": "lost",
+    "chTranslations": "adj.失去的,丧失的,错过的,迷惑的,不为人知的 vbl.lose的过去式和过去分词"
+  },
+  {
+    "id": "tr_lot",
+    "wordLemma": "lot",
+    "chTranslations": "n.签,抽签,一堆,许多,命运,一块地,份额|vt.划分|vi.抽签,抓阄"
+  },
+  {
+    "id": "tr_loud",
+    "wordLemma": "loud",
+    "chTranslations": "adj.高声的,不断的,喧吵的|adv.高声地,大声地"
+  },
+  {
+    "id": "tr_lovely",
+    "wordLemma": "lovely",
+    "chTranslations": "adj.可爱的,有趣的"
+  },
+  {
+    "id": "tr_lower",
+    "wordLemma": "lower",
+    "chTranslations": "adj.较低的,下级的,下等的,下游的|vi.降低,跌落,减弱|vt.放下,降下,减弱,贬低"
+  },
+  {
+    "id": "tr_magazine",
+    "wordLemma": "magazine",
+    "chTranslations": "n.杂志,期刊,军火库,弹药库,(枪、炮的)弹仓,胶卷盒"
+  },
+  {
+    "id": "tr_man",
+    "wordLemma": "man",
+    "chTranslations": "n.男人,人类,人,丈夫,雇工|vt.为...配备人手,操纵,在...就位,使振奋;Metropolitan Area Network 城域网"
+  },
+  {
+    "id": "tr_map",
+    "wordLemma": "map",
+    "chTranslations": "n.地图,图|v.绘制地图 [计]由LINK工具生成的一种文本文件,其中包含有被连接的程序的某些信息,例如程序中的组信息和公共符号信息等"
+  },
+  {
+    "id": "tr_meet",
+    "wordLemma": "meet",
+    "chTranslations": "n.会,集会|adj.适宜的,合适的|vt.遇见,(迎)接,与(某人目光)相遇,(赴约)和...会面,(经介绍)与...相识,对付|vi.相遇,接触"
+  },
+  {
+    "id": "tr_meter",
+    "wordLemma": "meter",
+    "chTranslations": "n.米,公尺,计,表,仪表"
+  },
+  {
+    "id": "tr_metre",
+    "wordLemma": "metre",
+    "chTranslations": "n.米,公尺"
+  },
+  {
+    "id": "tr_mice",
+    "wordLemma": "mice",
+    "chTranslations": "n.pl.老鼠"
+  },
+  {
+    "id": "tr_milk",
+    "wordLemma": "milk",
+    "chTranslations": "n.乳,牛奶|v.挤(奶)"
+  },
+  {
+    "id": "tr_mine",
+    "wordLemma": "mine",
+    "chTranslations": "n.矿,矿山,矿井,源泉,宝库,地雷,水雷|vt.挖掘,开采,在...布雷,破坏|vi.开矿,埋设地雷|pron.我的"
+  },
+  {
+    "id": "tr_monkey",
+    "wordLemma": "monkey",
+    "chTranslations": "n.猴子"
+  },
+  {
+    "id": "tr_moon",
+    "wordLemma": "moon",
+    "chTranslations": "n.月球,月亮,卫星"
+  },
+  {
+    "id": "tr_more",
+    "wordLemma": "more",
+    "chTranslations": "adj.更多的|n.更多|adv.更,更多,更加,超过,多,大大高于|num.更多"
+  },
+  {
+    "id": "tr_mother",
+    "wordLemma": "mother",
+    "chTranslations": "n.母亲,妈妈"
+  },
+  {
+    "id": "tr_mountain",
+    "wordLemma": "mountain",
+    "chTranslations": "n.山,山脉"
+  },
+  {
+    "id": "tr_mouse",
+    "wordLemma": "mouse",
+    "chTranslations": "n.鼠,耗子|v.搜寻"
+  },
+  {
+    "id": "tr_mouth",
+    "wordLemma": "mouth",
+    "chTranslations": "n.口,嘴"
+  },
+  {
+    "id": "tr_move",
+    "wordLemma": "move",
+    "chTranslations": "n.移动,迁居,步骤|vt.移动,感动,鼓动|vi.移动,离开,运行,迁移,搬家"
+  },
+  {
+    "id": "tr_mule",
+    "wordLemma": "mule",
+    "chTranslations": "n.骡,倔强之人,顽固的人,杂交种动物"
+  },
+  {
+    "id": "tr_mum",
+    "wordLemma": "mum",
+    "chTranslations": "n.[植](=chrysanthemum)菊花,沉默|adj.沉默的|vi.演哑剧|int.别说话!"
+  },
+  {
+    "id": "tr_museum",
+    "wordLemma": "museum",
+    "chTranslations": "n.博物馆"
+  },
+  {
+    "id": "tr_must",
+    "wordLemma": "must",
+    "chTranslations": "aux.必须,应当,很可能,一定,必须,肯定,可以"
+  },
+  {
+    "id": "tr_national",
+    "wordLemma": "national",
+    "chTranslations": "adj.国家的,国立[有]的,民族的"
+  },
+  {
+    "id": "tr_nature",
+    "wordLemma": "nature",
+    "chTranslations": "n.自然,自然界,大自然,自然状态,本性,天性,种类"
+  },
+  {
+    "id": "tr_near",
+    "wordLemma": "near",
+    "chTranslations": "adj.亲近的,亲密的,近,(车,马等)左侧的,吝啬的|adv.(时间,空间方面)近,不远|prep.在...近旁,近...v.接近,走近"
+  },
+  {
+    "id": "tr_need",
+    "wordLemma": "need",
+    "chTranslations": "n.需要,必需,必需品,要求,贫困|vt.需要 modalv.必要,必须"
+  },
+  {
+    "id": "tr_new",
+    "wordLemma": "new",
+    "chTranslations": "adj.新的,初见的,更新的|adv.新近"
+  },
+  {
+    "id": "tr_next",
+    "wordLemma": "next",
+    "chTranslations": "n.adj.下次的,其次的,与...连接,下一个|adv.下一次,其次"
+  },
+  {
+    "id": "tr_nine",
+    "wordLemma": "nine",
+    "chTranslations": "num.九,九个"
+  },
+  {
+    "id": "tr_nineteen",
+    "wordLemma": "nineteen",
+    "chTranslations": "num.十九"
+  },
+  {
+    "id": "tr_no",
+    "wordLemma": "no",
+    "chTranslations": "n.否定,投反对票者|adj.没有,不许,反对|adv.不,并不,毫不 [域] Norway ,挪威"
+  },
+  {
+    "id": "tr_noise",
+    "wordLemma": "noise",
+    "chTranslations": "n.喧闹声,噪声,噪音"
+  },
+  {
+    "id": "tr_nose",
+    "wordLemma": "nose",
+    "chTranslations": "n.鼻,(飞机、船等的)前端|v.侦察出"
+  },
+  {
+    "id": "tr_notebook",
+    "wordLemma": "notebook",
+    "chTranslations": "n.笔记簿,笔记本"
+  },
+  {
+    "id": "tr_nothing",
+    "wordLemma": "nothing",
+    "chTranslations": "n.无,不关紧要之事,[数]零|adv.毫不,决不|int.什么也没有,无"
+  },
+  {
+    "id": "tr_nurse",
+    "wordLemma": "nurse",
+    "chTranslations": "n.护士,保姆|vt.护理,看护|v.照料"
+  },
+  {
+    "id": "tr_off",
+    "wordLemma": "off",
+    "chTranslations": "adj.远的,空闲的,不工作的|adv.离开,在远方,离去,分离,中断,完成|prep.从...离开,脱离"
+  },
+  {
+    "id": "tr_often",
+    "wordLemma": "often",
+    "chTranslations": "adv.常常,经常"
+  },
+  {
+    "id": "tr_old",
+    "wordLemma": "old",
+    "chTranslations": "adj.年老的,老的,...岁的,陈旧的,古老的"
+  },
+  {
+    "id": "tr_older",
+    "wordLemma": "older",
+    "chTranslations": "adj.年长的"
+  },
+  {
+    "id": "tr_on",
+    "wordLemma": "on",
+    "chTranslations": "prep.在...之上,依附于,临近,靠近,向,在...时候,关于,涉及|adv.在上,向前,行动中,作用中"
+  },
+  {
+    "id": "tr_one",
+    "wordLemma": "one",
+    "chTranslations": "pron.一个人,任何人,一方|num.一,一个|adj.一方的,某一,同样的"
+  },
+  {
+    "id": "tr_onion",
+    "wordLemma": "onion",
+    "chTranslations": "n.洋葱|vt.加洋葱于,因洋葱掉泪"
+  },
+  {
+    "id": "tr_open",
+    "wordLemma": "open",
+    "chTranslations": "n.公开,户外,空旷|adj.开着的,敞开的,(车等)无篷的,开阔的,营业着的,公开的,坦率的,未决定的|vt.打开,公开,开放|vi.展开,开始,展现"
+  },
+  {
+    "id": "tr_or",
+    "wordLemma": "or",
+    "chTranslations": "conj.或,或者,还是 [军] Operational Requirement,作战需求 [军] Operations Research,运筹学研究"
+  },
+  {
+    "id": "tr_orange",
+    "wordLemma": "orange",
+    "chTranslations": "n.柑,桔,橙,橙色"
+  },
+  {
+    "id": "tr_other",
+    "wordLemma": "other",
+    "chTranslations": "adj.其他的,另外的,从前的|pron.其他的,他人,另外一个|adv.另外地,不同地"
+  },
+  {
+    "id": "tr_our",
+    "wordLemma": "our",
+    "chTranslations": "pron.我们的"
+  },
+  {
+    "id": "tr_ours",
+    "wordLemma": "ours",
+    "chTranslations": "pron.我们的"
+  },
+  {
+    "id": "tr_paint",
+    "wordLemma": "paint",
+    "chTranslations": "n.油漆,颜料,涂料|v.油漆,(用颜料等)画,绘,描绘,逼真地描述"
+  },
+  {
+    "id": "tr_panda",
+    "wordLemma": "panda",
+    "chTranslations": "n.熊猫,黑白相间的熊类"
+  },
+  {
+    "id": "tr_park",
+    "wordLemma": "park",
+    "chTranslations": "n.公园,停车场,炮场|vt.停放(汽车等)"
+  },
+  {
+    "id": "tr_part",
+    "wordLemma": "part",
+    "chTranslations": "n.部分,局部,零件,角色|vt.分开,分离,分配|vi.分开,断裂,分手|adv.部分地,有几分|adj.部分的,局部的"
+  },
+  {
+    "id": "tr_party",
+    "wordLemma": "party",
+    "chTranslations": "n.党,政党,随行人员,[律]当事人,社交会"
+  },
+  {
+    "id": "tr_pass",
+    "wordLemma": "pass",
+    "chTranslations": "n.经过,关口,途径,护照,通行证,入场券,传球,及格|vt.通过,审查通过,忽略,传递|vi.经过,变化,流通,宣判,被忽略,终止,传递,不叫牌"
+  },
+  {
+    "id": "tr_pear",
+    "wordLemma": "pear",
+    "chTranslations": "n.梨子,梨树"
+  },
+  {
+    "id": "tr_pen",
+    "wordLemma": "pen",
+    "chTranslations": "n.钢笔,围栏,围圈,作家|vt.写,关入栏中"
+  },
+  {
+    "id": "tr_pencil",
+    "wordLemma": "pencil",
+    "chTranslations": "n.铅笔"
+  },
+  {
+    "id": "tr_people",
+    "wordLemma": "people",
+    "chTranslations": "n.人,人们,民族,人类,公民|vt.使住(满)人"
+  },
+  {
+    "id": "tr_phone",
+    "wordLemma": "phone",
+    "chTranslations": "n.电话,电话机|v.(给...)打电话"
+  },
+  {
+    "id": "tr_photo",
+    "wordLemma": "photo",
+    "chTranslations": "n.照片"
+  },
+  {
+    "id": "tr_pick",
+    "wordLemma": "pick",
+    "chTranslations": "n.精选,掘,鹤嘴锄|vt.摘,掘,凿,挑选,挖,挑剔|vi.摘,掘,凿,挖,挑选|v.拾取"
+  },
+  {
+    "id": "tr_picnic",
+    "wordLemma": "picnic",
+    "chTranslations": "n.野餐|vi.(去)野餐"
+  },
+  {
+    "id": "tr_picture",
+    "wordLemma": "picture",
+    "chTranslations": "n.画,图画,照片,像,美景,描述,相似物,化身|vt.画,描绘"
+  },
+  {
+    "id": "tr_pig",
+    "wordLemma": "pig",
+    "chTranslations": "n.猪,猪肉,贪婪的人|v.生小猪,贪婪地吃"
+  },
+  {
+    "id": "tr_pilot",
+    "wordLemma": "pilot",
+    "chTranslations": "n.飞行员,领航员,引水员|vt.驾驶(飞机等),领航,引水|v.驾驶"
+  },
+  {
+    "id": "tr_pink",
+    "wordLemma": "pink",
+    "chTranslations": "n.粉红色,石竹花,化身,极致,精华|adj.粉红的|vt.刺,扎,刺痛,使变粉红色|vi.变粉红色"
+  },
+  {
+    "id": "tr_pizza",
+    "wordLemma": "pizza",
+    "chTranslations": "n.比萨饼(一种涂有乳酪核番茄酱的意大利式有馅烘饼)"
+  },
+  {
+    "id": "tr_plane",
+    "wordLemma": "plane",
+    "chTranslations": "n.平面,飞机,水平,程度,刨|adj.平的,平面的|v.刨,刨平"
+  },
+  {
+    "id": "tr_plant",
+    "wordLemma": "plant",
+    "chTranslations": "n.植物,庄稼,工厂,车间,设备|vt.种植,栽培,培养,安置|vi.种植"
+  },
+  {
+    "id": "tr_plate",
+    "wordLemma": "plate",
+    "chTranslations": "n.盘子,金属板,图版,金银餐具|vt.镀(金,银等),电镀,给...装钢板"
+  },
+  {
+    "id": "tr_play",
+    "wordLemma": "play",
+    "chTranslations": "n.游戏,比赛,运动,赌博,剧本|v.玩,扮演,播放,进行比赛|v.播放"
+  },
+  {
+    "id": "tr_poem",
+    "wordLemma": "poem",
+    "chTranslations": "n.诗,象诗一样,美丽的东西"
+  },
+  {
+    "id": "tr_polite",
+    "wordLemma": "polite",
+    "chTranslations": "adj.有礼貌的,客气的,有教养的,文雅的"
+  },
+  {
+    "id": "tr_postcard",
+    "wordLemma": "postcard",
+    "chTranslations": "n.明信片,风景明信片"
+  },
+  {
+    "id": "tr_postman",
+    "wordLemma": "postman",
+    "chTranslations": "n.邮差"
+  },
+  {
+    "id": "tr_price",
+    "wordLemma": "price",
+    "chTranslations": "n.价格,价钱,代价|vt.给...定价,问...的价格,标明价格"
+  },
+  {
+    "id": "tr_problem",
+    "wordLemma": "problem",
+    "chTranslations": "n.问题,难题"
+  },
+  {
+    "id": "tr_pull",
+    "wordLemma": "pull",
+    "chTranslations": "v.拉,拖,拔|n.拉,拖,拉力,牵引力"
+  },
+  {
+    "id": "tr_pupil",
+    "wordLemma": "pupil",
+    "chTranslations": "n.学生,小学生,瞳孔"
+  },
+  {
+    "id": "tr_puppy",
+    "wordLemma": "puppy",
+    "chTranslations": "n.(常指未满一岁的)小狗,小动物,自负的青年"
+  },
+  {
+    "id": "tr_puzzle",
+    "wordLemma": "puzzle",
+    "chTranslations": "n.难题,谜|v.(使)迷惑,(使)为难,迷惑不解"
+  },
+  {
+    "id": "tr_quickly",
+    "wordLemma": "quickly",
+    "chTranslations": "adv.很快地"
+  },
+  {
+    "id": "tr_quiet",
+    "wordLemma": "quiet",
+    "chTranslations": "adj.静止的,宁静的,从容的|n.安静,闲适|vi.平静下来|vt.使平静,使安心,减轻(疑虑、恐惧等)"
+  },
+  {
+    "id": "tr_rabbit",
+    "wordLemma": "rabbit",
+    "chTranslations": "n.兔,野兔"
+  },
+  {
+    "id": "tr_race",
+    "wordLemma": "race",
+    "chTranslations": "n.种族,种族气质,种族特征,赛跑,急流,姜根|vi.赛跑,疾走|vt.与...赛跑,使空转"
+  },
+  {
+    "id": "tr_read",
+    "wordLemma": "read",
+    "chTranslations": "v.读,阅读,理解,学习|adj.有学问的|n.读取 vbl.read的过去式和过去分词"
+  },
+  {
+    "id": "tr_ready",
+    "wordLemma": "ready",
+    "chTranslations": "adj.有准备的,准备完毕的,甘心的,情愿的,现成的,迅速的"
+  },
+  {
+    "id": "tr_really",
+    "wordLemma": "really",
+    "chTranslations": "adv.真正地,实在地,(表语气)真的吗?"
+  },
+  {
+    "id": "tr_red",
+    "wordLemma": "red",
+    "chTranslations": "n.红色,红衣服,红颜料,赤字,亏空|adj.红(色)的,革命的"
+  },
+  {
+    "id": "tr_reporter",
+    "wordLemma": "reporter",
+    "chTranslations": "n.记者,通讯员"
+  },
+  {
+    "id": "tr_restaurant",
+    "wordLemma": "restaurant",
+    "chTranslations": "n.餐馆,饭店"
+  },
+  {
+    "id": "tr_rice",
+    "wordLemma": "rice",
+    "chTranslations": "n.稻,米"
+  },
+  {
+    "id": "tr_right",
+    "wordLemma": "right",
+    "chTranslations": "n.正义,公正,正确,权利,右边,右派|adj.正当的,正确的,对的,合适的,恰当的,健康的,健全的,正面的|adv.正当地,正确地,一直地,直接地,完全地,彻底地,在右边"
+  },
+  {
+    "id": "tr_river",
+    "wordLemma": "river",
+    "chTranslations": "n.河,江"
+  },
+  {
+    "id": "tr_robot",
+    "wordLemma": "robot",
+    "chTranslations": "n.机器人,遥控设备,自动机械,机械般工作的人"
+  },
+  {
+    "id": "tr_rode",
+    "wordLemma": "rode",
+    "chTranslations": "vbl.ride的过去式"
+  },
+  {
+    "id": "tr_roll",
+    "wordLemma": "roll",
+    "chTranslations": "adj.滚动,滚转,(使)摇摆,(使)摇晃,卷起,卷拢|vt.辗,轧|n.(一)卷,卷形物,摇晃,摆动,名单"
+  },
+  {
+    "id": "tr_ruler",
+    "wordLemma": "ruler",
+    "chTranslations": "n.统治者,管理者,尺,直尺|n.标尺,划线板,划线的人"
+  },
+  {
+    "id": "tr_sad",
+    "wordLemma": "sad",
+    "chTranslations": "adj.忧愁的,悲哀的"
+  },
+  {
+    "id": "tr_salad",
+    "wordLemma": "salad",
+    "chTranslations": "n.色拉"
+  },
+  {
+    "id": "tr_sandwich",
+    "wordLemma": "sandwich",
+    "chTranslations": "n.夹心面包,三明治|vt.夹入中间|v.做成三明治"
+  },
+  {
+    "id": "tr_saw",
+    "wordLemma": "saw",
+    "chTranslations": "n.锯|v.锯 vbl.see的过去式"
+  },
+  {
+    "id": "tr_say",
+    "wordLemma": "say",
+    "chTranslations": "v.说,讲,背诵,念,表示,比方说,假定|n.话语,想说的意见,发言权"
+  },
+  {
+    "id": "tr_schedule",
+    "wordLemma": "schedule",
+    "chTranslations": "n.时间表,进度表|v.确定时间"
+  },
+  {
+    "id": "tr_school",
+    "wordLemma": "school",
+    "chTranslations": "n.学校,学院,学习,授课,求学,全体学生,学派|vt.锻炼,教育"
+  },
+  {
+    "id": "tr_schoolbag",
+    "wordLemma": "schoolbag",
+    "chTranslations": "n.书包"
+  },
+  {
+    "id": "tr_science",
+    "wordLemma": "science",
+    "chTranslations": "n.科学,自然科学,理科"
+  },
+  {
+    "id": "tr_scientist",
+    "wordLemma": "scientist",
+    "chTranslations": "n.科学家"
+  },
+  {
+    "id": "tr_sea",
+    "wordLemma": "sea",
+    "chTranslations": "n.海洋,大浪,大量,许多"
+  },
+  {
+    "id": "tr_season",
+    "wordLemma": "season",
+    "chTranslations": "n.季,季节|v.(使)适应,(使)适用,调味"
+  },
+  {
+    "id": "tr_second",
+    "wordLemma": "second",
+    "chTranslations": "n.秒,片刻,第二者,第二人,助手,次货,二等品|adj.另一个,又一个|num.第二|vt.赞成,支持"
+  },
+  {
+    "id": "tr_secretary",
+    "wordLemma": "secretary",
+    "chTranslations": "n.秘书,书记,部长,大臣"
+  },
+  {
+    "id": "tr_send",
+    "wordLemma": "send",
+    "chTranslations": "vt.送,寄,发送,派遣,打发"
+  },
+  {
+    "id": "tr_seven",
+    "wordLemma": "seven",
+    "chTranslations": "num.七,七个"
+  },
+  {
+    "id": "tr_seventeen",
+    "wordLemma": "seventeen",
+    "chTranslations": "num.十七|n.十七个"
+  },
+  {
+    "id": "tr_shadow",
+    "wordLemma": "shadow",
+    "chTranslations": "n.阴影,影子,影像,预兆,庇护,隐蔽处,阴暗,少许|vt.遮蔽,使朦胧,预示,尾随|vi.渐变,变阴暗"
+  },
+  {
+    "id": "tr_shall",
+    "wordLemma": "shall",
+    "chTranslations": "v.aux.将,会"
+  },
+  {
+    "id": "tr_share",
+    "wordLemma": "share",
+    "chTranslations": "n.共享,参与,一份,部分,份额,参股|vt.分享,均分,共有,分配|vi.分享"
+  },
+  {
+    "id": "tr_she",
+    "wordLemma": "she",
+    "chTranslations": "pron.[主格]她"
+  },
+  {
+    "id": "tr_ship",
+    "wordLemma": "ship",
+    "chTranslations": "n.船,海船,舰|v.装上船,航运,载运,在船上工作"
+  },
+  {
+    "id": "tr_shoe",
+    "wordLemma": "shoe",
+    "chTranslations": "n.鞋,鞋子|v.穿...鞋"
+  },
+  {
+    "id": "tr_shop",
+    "wordLemma": "shop",
+    "chTranslations": "n.商店,店铺|vi.买东西,购货"
+  },
+  {
+    "id": "tr_short",
+    "wordLemma": "short",
+    "chTranslations": "n.简略,短路,短裤|adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短|adv.突然,缺乏,不足"
+  },
+  {
+    "id": "tr_should",
+    "wordLemma": "should",
+    "chTranslations": "v.aux.应该,将要"
+  },
+  {
+    "id": "tr_show",
+    "wordLemma": "show",
+    "chTranslations": "n.表示,展览,炫耀,外观,假装|v.出示,指示,引导,说明,显示,展出,放映"
+  },
+  {
+    "id": "tr_shy",
+    "wordLemma": "shy",
+    "chTranslations": "adj.怕羞的,畏缩的,害羞的"
+  },
+  {
+    "id": "tr_sing",
+    "wordLemma": "sing",
+    "chTranslations": "v.唱,演唱"
+  },
+  {
+    "id": "tr_sir",
+    "wordLemma": "sir",
+    "chTranslations": "n.先生,阁下,(对爵士或男爵前的尊称)爵士"
+  },
+  {
+    "id": "tr_sister",
+    "wordLemma": "sister",
+    "chTranslations": "n.姐妹,姐,女会员,修女,妹|vt.姐妹般对待"
+  },
+  {
+    "id": "tr_sit",
+    "wordLemma": "sit",
+    "chTranslations": "v.(使)就座,(使)坐"
+  },
+  {
+    "id": "tr_six",
+    "wordLemma": "six",
+    "chTranslations": "num.六,六个"
+  },
+  {
+    "id": "tr_sixteen",
+    "wordLemma": "sixteen",
+    "chTranslations": "num.十六"
+  },
+  {
+    "id": "tr_sled",
+    "wordLemma": "sled",
+    "chTranslations": "n.雪橇,摘棉|v.乘雪橇,用雪橇运,用摘棉机摘"
+  },
+  {
+    "id": "tr_sleeping",
+    "wordLemma": "sleeping",
+    "chTranslations": "n.睡眠|adj.睡着的"
+  },
+  {
+    "id": "tr_slept",
+    "wordLemma": "slept",
+    "chTranslations": "vbl.sleep的过去式和过去分词"
+  },
+  {
+    "id": "tr_slow",
+    "wordLemma": "slow",
+    "chTranslations": "adj.慢的,迟钝的,不活跃的,缓慢的|v.(～ down)(使)慢下来,(使)减速,减缓|adv.缓慢"
+  },
+  {
+    "id": "tr_small",
+    "wordLemma": "small",
+    "chTranslations": "adj.小的,少的"
+  },
+  {
+    "id": "tr_snow",
+    "wordLemma": "snow",
+    "chTranslations": "n.雪|vi.下雪"
+  },
+  {
+    "id": "tr_snowman",
+    "wordLemma": "snowman",
+    "chTranslations": "n.雪人"
+  },
+  {
+    "id": "tr_so",
+    "wordLemma": "so",
+    "chTranslations": "conj.因而,所以,那么,这样看来|adv.[表示程度] 如此,那么,非常,很,[表示方式] 这样,那样,如此,因此 [域] Somalia ,索马里"
+  },
+  {
+    "id": "tr_sofa",
+    "wordLemma": "sofa",
+    "chTranslations": "n.沙发"
+  },
+  {
+    "id": "tr_sometimes",
+    "wordLemma": "sometimes",
+    "chTranslations": "adv.不时,有时"
+  },
+  {
+    "id": "tr_song",
+    "wordLemma": "song",
+    "chTranslations": "n.歌,歌曲"
+  },
+  {
+    "id": "tr_sound",
+    "wordLemma": "sound",
+    "chTranslations": "n.声音,语音,噪音,吵闹,海峡,听力范围,探条|adj.健全的,可靠的,合理的,有效彻底的,健康的|adv.彻底地,充分地|vi.发出声音,回响,测深,听起来|vt.使发声,宣告,听诊,测...深,试探"
+  },
+  {
+    "id": "tr_space",
+    "wordLemma": "space",
+    "chTranslations": "n.空间,间隔,距离,空地,余地,一段时间|vt.留间隔,隔开"
+  },
+  {
+    "id": "tr_speak",
+    "wordLemma": "speak",
+    "chTranslations": "v.说话,谈话,说明事实,表示意见,发言,演讲,操(某种语言)"
+  },
+  {
+    "id": "tr_special",
+    "wordLemma": "special",
+    "chTranslations": "n.特派员,专车,专刊|adj.特别的,特殊的,专门的,专用的"
+  },
+  {
+    "id": "tr_spoon",
+    "wordLemma": "spoon",
+    "chTranslations": "n.匙,调羹,勺子"
+  },
+  {
+    "id": "tr_sport",
+    "wordLemma": "sport",
+    "chTranslations": "n.运动,[pl.] 运动会"
+  },
+  {
+    "id": "tr_spring",
+    "wordLemma": "spring",
+    "chTranslations": "n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源|v.跳,跃,跃出,使跳跃,使爆炸,触发"
+  },
+  {
+    "id": "tr_star",
+    "wordLemma": "star",
+    "chTranslations": "n.星,恒星,明星,名角"
+  },
+  {
+    "id": "tr_start",
+    "wordLemma": "start",
+    "chTranslations": "n.动身,出发点,开始,惊起,惊跳,赛跑的先跑权,优先地位|v.出发,起程,开始,着手,惊动,惊起,起动,发动 削减战略武器条约START(Strategic Arms Reduction Treaty)"
+  },
+  {
+    "id": "tr_stay",
+    "wordLemma": "stay",
+    "chTranslations": "n.逗留,延缓,中止,支柱|v.在,暂住,坚持,止住,抑制,延缓,停(下)"
+  },
+  {
+    "id": "tr_still",
+    "wordLemma": "still",
+    "chTranslations": "n.寂静,剧照,照片|adj.静止的,静寂的|adv.还,仍,更,还要,尽管如此,依然 静止画面,静态图片"
+  },
+  {
+    "id": "tr_stop",
+    "wordLemma": "stop",
+    "chTranslations": "n.停止,车站,逗留,障碍,风琴的音栓,填塞|vi.停止,被塞住|vt.塞住,堵塞,阻止,击落,断绝,终止,难倒"
+  },
+  {
+    "id": "tr_storybook",
+    "wordLemma": "storybook",
+    "chTranslations": "n. 故事书,小说|adj. 像童话故事那样圆满幸福的"
+  },
+  {
+    "id": "tr_straight",
+    "wordLemma": "straight",
+    "chTranslations": "adj.直的,诚实的,正直的,率直的,整齐的|adv.直,直接,一直"
+  },
+  {
+    "id": "tr_strawberry",
+    "wordLemma": "strawberry",
+    "chTranslations": "n.[植]草莓"
+  },
+  {
+    "id": "tr_street",
+    "wordLemma": "street",
+    "chTranslations": "n.街,街道"
+  },
+  {
+    "id": "tr_strict",
+    "wordLemma": "strict",
+    "chTranslations": "adj.(～ with) 严格的,严厉的,严谨的,精确的"
+  },
+  {
+    "id": "tr_strong",
+    "wordLemma": "strong",
+    "chTranslations": "adj.强,强壮的,坚固的,浓的,强烈的,强大的,强的,强硬的"
+  },
+  {
+    "id": "tr_stronger",
+    "wordLemma": "stronger",
+    "chTranslations": "adj.更强壮的"
+  },
+  {
+    "id": "tr_stuck",
+    "wordLemma": "stuck",
+    "chTranslations": "vbl.stick的过去式和过去分词"
+  },
+  {
+    "id": "tr_student",
+    "wordLemma": "student",
+    "chTranslations": "n.(大小学校的)学生,研究者,学者"
+  },
+  {
+    "id": "tr_study",
+    "wordLemma": "study",
+    "chTranslations": "n.学习,研究,学科,试作,论文,求学,努力,书房|vt.学习,攻读,研究,考虑,计划|vi.学习,试图"
+  },
+  {
+    "id": "tr_subway",
+    "wordLemma": "subway",
+    "chTranslations": "n.地道,<美> 地铁"
+  },
+  {
+    "id": "tr_summer",
+    "wordLemma": "summer",
+    "chTranslations": "n.夏季|vi.避暑,过夏天|adj.夏季的,在夏季的"
+  },
+  {
+    "id": "tr_supermarket",
+    "wordLemma": "supermarket",
+    "chTranslations": "n.超级市场"
+  },
+  {
+    "id": "tr_sure",
+    "wordLemma": "sure",
+    "chTranslations": "adj.对....有把握,确信某事,稳当的,可靠的|adv.的确,当然"
+  },
+  {
+    "id": "tr_sweet",
+    "wordLemma": "sweet",
+    "chTranslations": "adj.甜的,可受的,美好的,芳香的|n.糖果"
+  },
+  {
+    "id": "tr_swim",
+    "wordLemma": "swim",
+    "chTranslations": "n.游泳,漂浮,潮流,眼花|adj.游泳时穿戴的|vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸|vt.游过,使浮起|adj.游泳时穿戴的"
+  },
+  {
+    "id": "tr_table",
+    "wordLemma": "table",
+    "chTranslations": "n.桌子,餐桌,工作台,平地层,石板,表格|adj.桌子的,台子的|vt.搁置,嵌合,制表"
+  },
+  {
+    "id": "tr_tail",
+    "wordLemma": "tail",
+    "chTranslations": "n.尾部,尾巴,尾状物,后部,踪迹,排的长队,限定继承权|adj.在后面的,限定继承的,尾部的,后面来的,后部的|vt.为...装尾,附于其后,尾随,跟踪,监视,使架住|vi.成为散乱的行列,跟踪,嵌入,船尾搁浅"
+  },
+  {
+    "id": "tr_take",
+    "wordLemma": "take",
+    "chTranslations": "v.拿,拿走,取,抓,占领,获得,接受,感受|n.捕获量"
+  },
+  {
+    "id": "tr_tall",
+    "wordLemma": "tall",
+    "chTranslations": "adj.高的,长的,夸大的|adv.<俚> 夸大地"
+  },
+  {
+    "id": "tr_taxi",
+    "wordLemma": "taxi",
+    "chTranslations": "n.出租汽车|v.乘坐出租汽车"
+  },
+  {
+    "id": "tr_tea",
+    "wordLemma": "tea",
+    "chTranslations": "n.茶,茶树,茶叶,茶点|vt.给...沏茶|vi.喝茶,进茶点"
+  },
+  {
+    "id": "tr_teach",
+    "wordLemma": "teach",
+    "chTranslations": "v.讲授,教授"
+  },
+  {
+    "id": "tr_teacher",
+    "wordLemma": "teacher",
+    "chTranslations": "n.教师"
+  },
+  {
+    "id": "tr_tell",
+    "wordLemma": "tell",
+    "chTranslations": "vt.告诉,说,吩咐,断定,知道|vi.讲述,泄密,告发,表明,作证|n.<方>讲的事,传闻"
+  },
+  {
+    "id": "tr_ten",
+    "wordLemma": "ten",
+    "chTranslations": "num.十,十个"
+  },
+  {
+    "id": "tr_than",
+    "wordLemma": "than",
+    "chTranslations": "conj.比|prep.与...相比较"
+  },
+  {
+    "id": "tr_their",
+    "wordLemma": "their",
+    "chTranslations": "pron.他们的,她们的,它们的"
+  },
+  {
+    "id": "tr_theirs",
+    "wordLemma": "theirs",
+    "chTranslations": "pron.他们的(所有物),属于他们的(东西)"
+  },
+  {
+    "id": "tr_them",
+    "wordLemma": "them",
+    "chTranslations": "pron.[they 的宾格] 他们,她们,它们"
+  },
+  {
+    "id": "tr_there",
+    "wordLemma": "there",
+    "chTranslations": "adv.在那里"
+  },
+  {
+    "id": "tr_thin",
+    "wordLemma": "thin",
+    "chTranslations": "adj.薄的,细的,瘦的,稀少的,稀疏的,(液体、气体)稀薄的,淡的,空洞的|vt.使变薄,使变细,使稀少,使淡|vi.变薄,变细,稀少,变淡|adv.薄地,稀疏地,微弱地|n.细小部分"
+  },
+  {
+    "id": "tr_thing",
+    "wordLemma": "thing",
+    "chTranslations": "n.东西,物,[pl.] 所有物,用品,事,事情,事件,[pl.] 事态"
+  },
+  {
+    "id": "tr_thinner",
+    "wordLemma": "thinner",
+    "chTranslations": "n.稀释剂"
+  },
+  {
+    "id": "tr_third",
+    "wordLemma": "third",
+    "chTranslations": "num.第三,三分之一"
+  },
+  {
+    "id": "tr_thirsty",
+    "wordLemma": "thirsty",
+    "chTranslations": "adj.口渴的,渴望的,热望的"
+  },
+  {
+    "id": "tr_thirteen",
+    "wordLemma": "thirteen",
+    "chTranslations": "num.十三"
+  },
+  {
+    "id": "tr_thirtieth",
+    "wordLemma": "thirtieth",
+    "chTranslations": "num.第三十,三十分之一"
+  },
+  {
+    "id": "tr_thought",
+    "wordLemma": "thought",
+    "chTranslations": "n.思考,想法,思想,思潮,关心,关怀,挂念 vbl.think的过去式和过去分词"
+  },
+  {
+    "id": "tr_three",
+    "wordLemma": "three",
+    "chTranslations": "num.三"
+  },
+  {
+    "id": "tr_tiger",
+    "wordLemma": "tiger",
+    "chTranslations": "n.[动]老虎,虎,凶暴的人"
+  },
+  {
+    "id": "tr_till",
+    "wordLemma": "till",
+    "chTranslations": "prep.直到,在...以前,迄|conj.在...以前,直到...为止|vt.耕种|n.(商店)铁柜,放钱的抽屉,备用现金,冰渍"
+  },
+  {
+    "id": "tr_tired",
+    "wordLemma": "tired",
+    "chTranslations": "adj.疲劳的,累的,疲倦的"
+  },
+  {
+    "id": "tr_today",
+    "wordLemma": "today",
+    "chTranslations": "adv.今天,现今|n.今天,现今"
+  },
+  {
+    "id": "tr_together",
+    "wordLemma": "together",
+    "chTranslations": "adv.共同,一起,合起来,集拢地"
+  },
+  {
+    "id": "tr_tomorrow",
+    "wordLemma": "tomorrow",
+    "chTranslations": "adv.明天见|n.明天,未来"
+  },
+  {
+    "id": "tr_tonight",
+    "wordLemma": "tonight",
+    "chTranslations": "adv.今晚,今夜|n.今晚"
+  },
+  {
+    "id": "tr_took",
+    "wordLemma": "took",
+    "chTranslations": "vbl.take的过去式"
+  },
+  {
+    "id": "tr_traffic",
+    "wordLemma": "traffic",
+    "chTranslations": "n.交通,通行,运输,贸易,交通量,交易,交往,通信量|vi.交易,买卖|vt.在...通行,用...作交换"
+  },
+  {
+    "id": "tr_train",
+    "wordLemma": "train",
+    "chTranslations": "n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线|vt.训练,培养,瞄准,(园艺)整枝|vi.锻炼"
+  },
+  {
+    "id": "tr_travel",
+    "wordLemma": "travel",
+    "chTranslations": "v.旅行,传播|vi.行进,传播|n.旅行"
+  },
+  {
+    "id": "tr_tree",
+    "wordLemma": "tree",
+    "chTranslations": "n.树,木料,树状物|vt.赶上树|n.[计] 显示驱动器的子目录结构|vi.爬上树,逃上树"
+  },
+  {
+    "id": "tr_trip",
+    "wordLemma": "trip",
+    "chTranslations": "n.(短途)旅行,绊倒,摔倒,失足,往返,差错,支吾,旅程|vt.使跌倒,使犯错,使失败,挑剔|vi.轻快地走,摔倒,绊倒,失足,结巴,远足,犯错,旅行"
+  },
+  {
+    "id": "tr_try",
+    "wordLemma": "try",
+    "chTranslations": "n.尝试|v.试,试图,努力,试验,磨难,考验,审问"
+  },
+  {
+    "id": "tr_turn",
+    "wordLemma": "turn",
+    "chTranslations": "n.转动,旋转,转变方向,轮流,时机,(一)回,倾向,癖性|v.(使)转动,翻转,扭转,(使)变质,超过(年龄,数量等),车(成)"
+  },
+  {
+    "id": "tr_twelfth",
+    "wordLemma": "twelfth",
+    "chTranslations": "num.第十二"
+  },
+  {
+    "id": "tr_twelve",
+    "wordLemma": "twelve",
+    "chTranslations": "num.十二"
+  },
+  {
+    "id": "tr_twentieth",
+    "wordLemma": "twentieth",
+    "chTranslations": "adj.第二十的,二十分之一的|n.第二十(个),二十分之一,(月)的第二十日"
+  },
+  {
+    "id": "tr_twenty",
+    "wordLemma": "twenty",
+    "chTranslations": "num.二十,二十个"
+  },
+  {
+    "id": "tr_two",
+    "wordLemma": "two",
+    "chTranslations": "num.二,两个"
+  },
+  {
+    "id": "tr_type",
+    "wordLemma": "type",
+    "chTranslations": "n.类型,典型,模范,[印刷]活字,铅字|v.打字,测定(血等)类型"
+  },
+  {
+    "id": "tr_uncle",
+    "wordLemma": "uncle",
+    "chTranslations": "n.伯父,叔父,姨丈,援助者"
+  },
+  {
+    "id": "tr_under",
+    "wordLemma": "under",
+    "chTranslations": "prep.在...之下,在...之内,在...领导下,低于,假借|adv.在下"
+  },
+  {
+    "id": "tr_university",
+    "wordLemma": "university",
+    "chTranslations": "n.(综合)大学"
+  },
+  {
+    "id": "tr_use",
+    "wordLemma": "use",
+    "chTranslations": "vt.使用,利用,耗费|n.使用,利用,用途,效用,使用价值"
+  },
+  {
+    "id": "tr_usually",
+    "wordLemma": "usually",
+    "chTranslations": "adv.通常,大抵"
+  },
+  {
+    "id": "tr_vacation",
+    "wordLemma": "vacation",
+    "chTranslations": "n.假期,休假,(房屋等的)腾出|v.<美>度假,休假"
+  },
+  {
+    "id": "tr_vegetable",
+    "wordLemma": "vegetable",
+    "chTranslations": "n.蔬菜,植物,生活呆板单调的人|adj.蔬菜的,植物的"
+  },
+  {
+    "id": "tr_village",
+    "wordLemma": "village",
+    "chTranslations": "n.乡村,村庄|adj.村庄的"
+  },
+  {
+    "id": "tr_visit",
+    "wordLemma": "visit",
+    "chTranslations": "n.拜访,访问,游览,参观,(作客)逗留,视察,调查|vt.拜访,访问,参观,视察,降临|vi.访问,参观,闲谈"
+  },
+  {
+    "id": "tr_walk",
+    "wordLemma": "walk",
+    "chTranslations": "vi.步,行,走|n.步行,散步,步,行道"
+  },
+  {
+    "id": "tr_wall",
+    "wordLemma": "wall",
+    "chTranslations": "n.墙壁,围墙,似墙之物|adj.墙壁的|vt.围以墙"
+  },
+  {
+    "id": "tr_want",
+    "wordLemma": "want",
+    "chTranslations": "vt.想要,希望,需要,短缺,缺少|n.需要,短缺"
+  },
+  {
+    "id": "tr_wash",
+    "wordLemma": "wash",
+    "chTranslations": "n.洗,洗涤,冲洗,洗涤剂,洼地,洗的衣服,冲积物|vt.洗,洗涤,洗清,粉刷,冲出,弄湿,流过,镀金于|vi.洗涤,洗澡,被冲蚀,漂浮|adj.耐洗的,(证券交易)虚假的"
+  },
+  {
+    "id": "tr_washed",
+    "wordLemma": "washed",
+    "chTranslations": "adj.洗过的"
+  },
+  {
+    "id": "tr_watch",
+    "wordLemma": "watch",
+    "chTranslations": "n.注视,注意,手表,看守,守护,监视,值班人|vt.看,注视,照顾,监视,警戒,守护,看守|vi.观看,注视,守侯|adj.手表的,挂表的"
+  },
+  {
+    "id": "tr_water",
+    "wordLemma": "water",
+    "chTranslations": "n.水,雨水,海水,水位,水面,流体|vt.喷淋,供以水,注入水,使湿|vi.流泪,加水|adj.水的,水上的,水生的,含水的"
+  },
+  {
+    "id": "tr_watermelon",
+    "wordLemma": "watermelon",
+    "chTranslations": "n.西瓜"
+  },
+  {
+    "id": "tr_wear",
+    "wordLemma": "wear",
+    "chTranslations": "vt.穿,戴|v.(～ out) 磨损,用旧,(～ out) 穿着"
+  },
+  {
+    "id": "tr_weekend",
+    "wordLemma": "weekend",
+    "chTranslations": "n.周末,周末休假|adj.周末的|vi.度周末的"
+  },
+  {
+    "id": "tr_well",
+    "wordLemma": "well",
+    "chTranslations": "n.井|vi.涌出|adj.健康的,良好的,适当的|adv.好,满意地,充分地,彻底地,有理地,适当地,夸奖地|int.唔,咳"
+  },
+  {
+    "id": "tr_went",
+    "wordLemma": "went",
+    "chTranslations": "vbl.go的过去式"
+  },
+  {
+    "id": "tr_when",
+    "wordLemma": "when",
+    "chTranslations": "conj.就在那个时候,在...的时候|adv.什么时候,...的时候|pron.什么时侯,那时"
+  },
+  {
+    "id": "tr_which",
+    "wordLemma": "which",
+    "chTranslations": "pron.哪个,哪几个,...的,...那个|adj.哪个"
+  },
+  {
+    "id": "tr_white",
+    "wordLemma": "white",
+    "chTranslations": "n.白色,蛋白,白种人|adj.白(色)的,白种人的"
+  },
+  {
+    "id": "tr_why",
+    "wordLemma": "why",
+    "chTranslations": "adv.为什么,...的(理由)int.(表吃惊,满意等)哎呀!什么?"
+  },
+  {
+    "id": "tr_will",
+    "wordLemma": "will",
+    "chTranslations": "n.意志,决心,意向,遗嘱|v.aux.将,愿意,必须"
+  },
+  {
+    "id": "tr_win",
+    "wordLemma": "win",
+    "chTranslations": "v.(获)胜,赢得,劝诱,取得胜利|n.赢,胜利"
+  },
+  {
+    "id": "tr_window",
+    "wordLemma": "window",
+    "chTranslations": "n.窗,窗口"
+  },
+  {
+    "id": "tr_winter",
+    "wordLemma": "winter",
+    "chTranslations": "n.冬,冬季,萧条期,衰退期|adj.冬天的|vt.对...进行冬天保护|vi.过冬"
+  },
+  {
+    "id": "tr_woke",
+    "wordLemma": "woke",
+    "chTranslations": "vbl.wake的过去式和过去分词"
+  },
+  {
+    "id": "tr_woman",
+    "wordLemma": "woman",
+    "chTranslations": "n.女人,妇女,女仆|adj.女人的,女性的,妇女的|vt.为...配备妇女,使成女人腔"
+  },
+  {
+    "id": "tr_wonderful",
+    "wordLemma": "wonderful",
+    "chTranslations": "adj.令人惊奇的,奇妙的,极好的,令人愉快的"
+  },
+  {
+    "id": "tr_word",
+    "wordLemma": "word",
+    "chTranslations": "n.字,词,话,消息,诺言,命令|vt.为...措辞"
+  },
+  {
+    "id": "tr_work",
+    "wordLemma": "work",
+    "chTranslations": "n.工作,劳动,操作,职业,[物]功,手工,作品,机件|v.(使)工作,(使)运转,起作用,造成,产生,经营,(使)渐渐移动,煅制"
+  },
+  {
+    "id": "tr_worker",
+    "wordLemma": "worker",
+    "chTranslations": "n.工人"
+  },
+  {
+    "id": "tr_worried",
+    "wordLemma": "worried",
+    "chTranslations": "adj.闷闷不乐的"
+  },
+  {
+    "id": "tr_worry",
+    "wordLemma": "worry",
+    "chTranslations": "n.烦恼,忧虑,苦恼,撕咬|vt.使烦恼,使焦虑,使苦恼,撕咬,困扰,折磨|vi.烦恼,担心,撕咬,挣扎着前进"
+  },
+  {
+    "id": "tr_wow",
+    "wordLemma": "wow",
+    "chTranslations": "n.叫声,<美俚>哄动一时的人物|vi.发出叫声|vt.使叫绝"
+  },
+  {
+    "id": "tr_wrong",
+    "wordLemma": "wrong",
+    "chTranslations": "adj.错误的,不正当的,道德不好的,失常的|adv.错误地|n.坏事,错误,不公正"
+  },
+  {
+    "id": "tr_year",
+    "wordLemma": "year",
+    "chTranslations": "n.年,年龄,年岁"
+  },
+  {
+    "id": "tr_yellow",
+    "wordLemma": "yellow",
+    "chTranslations": "n.黄色|adj.黄色的"
+  },
+  {
+    "id": "tr_yesterday",
+    "wordLemma": "yesterday",
+    "chTranslations": "n.昨天|adv.昨天"
+  },
+  {
+    "id": "tr_young",
+    "wordLemma": "young",
+    "chTranslations": "adj.年轻的,年纪小的,没有经验的,尚早的,初期的|n.(动物的)崽,仔"
+  },
+  {
+    "id": "tr_younger",
+    "wordLemma": "younger",
+    "chTranslations": "n.年纪较小者|adj.较年轻的"
+  },
+  {
+    "id": "tr_your",
+    "wordLemma": "your",
+    "chTranslations": "pron.你的,你们的"
+  },
+  {
+    "id": "tr_yours",
+    "wordLemma": "yours",
+    "chTranslations": "pron.你的,你们的"
+  },
+  {
+    "id": "tr_zoo",
+    "wordLemma": "zoo",
+    "chTranslations": "n.动物园"
+  }
+]

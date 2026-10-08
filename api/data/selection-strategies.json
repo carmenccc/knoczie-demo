@@ -1,0 +1,8 @@
+[
+  {
+    "id": "RULE_VDEMO",
+    "name": "Rule-based demo ranker",
+    "version": "1",
+    "description": "Hard filter by Word.vocabularyScope and grade/term; contextFit from tag match plus optional difficulty and frequency preferences."
+  }
+]
