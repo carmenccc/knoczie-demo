@@ -100,6 +100,8 @@ def main() -> int:
     expect(remove_id not in new_ids, "removed word left the visible list")
     expect(len(new_ids) == 10, "remove auto-filled a replacement")
     expect(remove_id in (after_remove.get("usedWords") or []), "removed word stays in usedWords")
+    other_ids = [word["wordId"] for word in after_remove.get("otherWords") or []]
+    expect(remove_id in other_ids, "removed word is parked in otherWords")
 
     status, missing_rep = request(
         "POST",
@@ -120,6 +122,25 @@ def main() -> int:
     expect(status == 200, f"replace → {status}")
     expect(after_replace["candidates"][0]["wordId"] == pick, "replace used teacher-chosen word")
     expect(replace_id not in [c["wordId"] for c in after_replace.get("candidates", [])], "old word left visible")
+
+    visible_after = [c["wordId"] for c in after_replace.get("candidates", [])]
+    host = visible_after[1]
+    status, brought_back = request(
+        "POST",
+        f"/api/selections/{sid}/actions",
+        {"type": "replace", "wordId": host, "replacementWordId": remove_id},
+    )
+    expect(status == 200, f"replace with a used word → {status}")
+    brought_ids = [c["wordId"] for c in brought_back.get("candidates", [])]
+    expect(remove_id in brought_ids, "used word is back on the visible list")
+    expect(host not in brought_ids, "replaced host left the visible list")
+
+    status, visible_target = request(
+        "POST",
+        f"/api/selections/{sid}/actions",
+        {"type": "replace", "wordId": brought_ids[0], "replacementWordId": brought_ids[1]},
+    )
+    expect(status == 400, f"replace with a visible word is 400 → {status}")
 
     status, committed = request("POST", f"/api/selections/{sid}/commit", {})
     expect(status == 201 and "event" in committed, f"commit → {status}")

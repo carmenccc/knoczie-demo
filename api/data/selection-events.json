@@ -1,6 +1,6 @@
 [
   {
-    "id": "evt_c1f470e0-b122-4faa-94fa-31e1064b2d43",
+    "id": "evt_680f8be9-002d-41ab-ba5b-fac893736a66",
     "selectionContext": {
       "vocabularyScope": "人教版",
       "levelRange": {
@@ -15,751 +15,121 @@
       },
       "activity": "dictation",
       "count": 10,
-      "preferredFeatureIds": [
-        "feat-changkao"
-      ],
-      "difficultyPreference": "easy",
+      "preferredFeatureIds": [],
+      "difficultyPreference": "mixed",
       "frequencyPreference": "high"
     },
     "strategyId": "RULE_VDEMO",
     "strategyVersion": "1",
     "initialCandidates": [
-      {
-        "wordId": "word_and",
-        "lemma": "and",
-        "score": 0.6328318337552155,
-        "reasons": [
-          "contextFit:0.633",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_in",
-        "lemma": "in",
-        "score": 0.6324286112066105,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_he",
-        "lemma": "he",
-        "score": 0.6320939812385912,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_on",
-        "lemma": "on",
-        "score": 0.6317549030798665,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_your",
-        "lemma": "your",
-        "score": 0.6314916426335199,
-        "reasons": [
-          "contextFit:0.631",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_no",
-        "lemma": "no",
-        "score": 0.6313642617326216,
-        "reasons": [
-          "contextFit:0.631",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_she",
-        "lemma": "she",
-        "score": 0.6302511215541551,
-        "reasons": [
-          "contextFit:0.630",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_one",
-        "lemma": "one",
-        "score": 0.6293369923181267,
-        "reasons": [
-          "contextFit:0.629",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_man",
-        "lemma": "man",
-        "score": 0.6265945117189208,
-        "reasons": [
-          "contextFit:0.627",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.98:pref:high:fit:0.98"
-        ]
-      },
-      {
-        "wordId": "word_two",
-        "lemma": "two",
-        "score": 0.6225078426832975,
-        "reasons": [
-          "contextFit:0.623",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.97:pref:high:fit:0.97"
-        ]
-      }
-    ],
-    "finalSelection": [
-      {
-        "wordId": "word_boy",
-        "lemma": "boy",
-        "score": 0.6135253417222307,
-        "reasons": [
-          "contextFit:0.614",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.94:pref:high:fit:0.94"
-        ]
-      },
       {
         "wordId": "word_father",
         "lemma": "father",
-        "score": 0.6149739266613846,
+        "score": 0.972460889992077,
         "reasons": [
-          "contextFit:0.615",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.972",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.94:pref:high:fit:0.94"
-        ]
-      },
-      {
-        "wordId": "word_he",
-        "lemma": "he",
-        "score": 0.6320939812385912,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_on",
-        "lemma": "on",
-        "score": 0.6317549030798665,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_your",
-        "lemma": "your",
-        "score": 0.6314916426335199,
-        "reasons": [
-          "contextFit:0.631",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_no",
-        "lemma": "no",
-        "score": 0.6313642617326216,
-        "reasons": [
-          "contextFit:0.631",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
         ]
       },
       {
         "wordId": "word_she",
         "lemma": "she",
-        "score": 0.6302511215541551,
+        "score": 0.9953766823312327,
         "reasons": [
-          "contextFit:0.630",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.995",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.99:pref:high:fit:0.99"
         ]
       },
       {
-        "wordId": "word_one",
-        "lemma": "one",
-        "score": 0.6293369923181267,
+        "wordId": "word_new",
+        "lemma": "new",
+        "score": 0.9765031993248504,
         "reasons": [
-          "contextFit:0.629",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
+          "contextFit:0.977",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
         ]
       },
       {
-        "wordId": "word_man",
-        "lemma": "man",
-        "score": 0.6265945117189208,
+        "wordId": "word_big",
+        "lemma": "big",
+        "score": 0.9751047155531778,
         "reasons": [
-          "contextFit:0.627",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.98:pref:high:fit:0.98"
-        ]
-      },
-      {
-        "wordId": "word_two",
-        "lemma": "two",
-        "score": 0.6225078426832975,
-        "reasons": [
-          "contextFit:0.623",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.97:pref:high:fit:0.97"
-        ]
-      }
-    ],
-    "teacherActions": [
-      {
-        "type": "keep",
-        "wordId": "word_and",
-        "replacementWordId": null,
-        "at": "2026-10-07T21:08:31.155Z"
-      },
-      {
-        "type": "remove",
-        "wordId": "word_in",
-        "replacementWordId": "word_father",
-        "at": "2026-10-07T21:08:31.178Z"
-      },
-      {
-        "type": "replace",
-        "wordId": "word_and",
-        "replacementWordId": "word_boy",
-        "at": "2026-10-07T21:08:31.180Z"
-      }
-    ],
-    "createdAt": "2026-10-07T21:08:31.207Z"
-  },
-  {
-    "id": "evt_70b41be1-13f5-4975-abc0-617dfd690900",
-    "selectionContext": {
-      "vocabularyScope": "人教版",
-      "levelRange": {
-        "from": {
-          "grade": 5,
-          "term": 2
-        },
-        "to": {
-          "grade": 5,
-          "term": 2
-        }
-      },
-      "activity": "dictation",
-      "count": 10,
-      "preferredFeatureIds": [
-        "feat-changkao"
-      ],
-      "difficultyPreference": "medium",
-      "frequencyPreference": "mixed"
-    },
-    "strategyId": "RULE_VDEMO",
-    "strategyVersion": "1",
-    "initialCandidates": [
-      {
-        "wordId": "word_always",
-        "lemma": "always",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_busy",
-        "lemma": "busy",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_cave",
-        "lemma": "cave",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_each",
-        "lemma": "each",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_exercise",
-        "lemma": "exercise",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_fall",
-        "lemma": "fall",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_late",
-        "lemma": "late",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_pick",
-        "lemma": "pick",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_picnic",
-        "lemma": "picnic",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_season",
-        "lemma": "season",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      }
-    ],
-    "finalSelection": [
-      {
-        "wordId": "word_always",
-        "lemma": "always",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_busy",
-        "lemma": "busy",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_cave",
-        "lemma": "cave",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_each",
-        "lemma": "each",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_exercise",
-        "lemma": "exercise",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_second",
-        "lemma": "second",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_late",
-        "lemma": "late",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_pick",
-        "lemma": "pick",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_picnic",
-        "lemma": "picnic",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      },
-      {
-        "wordId": "word_season",
-        "lemma": "season",
-        "score": 0.5,
-        "reasons": [
-          "contextFit:0.500",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.50",
-          "difficulty:pref:medium:fit:1.00",
-          "frequency:mixed"
-        ]
-      }
-    ],
-    "teacherActions": [
-      {
-        "type": "remove",
-        "wordId": "word_fall",
-        "replacementWordId": "word_second",
-        "at": "2026-10-08T17:44:22.655Z"
-      }
-    ],
-    "createdAt": "2026-10-08T17:48:18.613Z"
-  },
-  {
-    "id": "evt_e3ff16e4-19be-4a11-800f-5edee611f7b3",
-    "selectionContext": {
-      "vocabularyScope": "人教版",
-      "levelRange": {
-        "from": {
-          "grade": 3,
-          "term": null
-        },
-        "to": {
-          "grade": 3,
-          "term": null
-        }
-      },
-      "activity": "dictation",
-      "count": 10,
-      "preferredFeatureIds": [
-        "feat-changkao"
-      ],
-      "difficultyPreference": "easy",
-      "frequencyPreference": "high"
-    },
-    "strategyId": "RULE_VDEMO",
-    "strategyVersion": "1",
-    "initialCandidates": [
-      {
-        "wordId": "word_OK",
-        "lemma": "OK",
-        "score": 0.6124104916313065,
-        "reasons": [
-          "contextFit:0.612",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.94:pref:high:fit:0.94"
-        ]
-      },
-      {
-        "wordId": "word_your",
-        "lemma": "your",
-        "score": 0.6314916426335199,
-        "reasons": [
-          "contextFit:0.631",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_five",
-        "lemma": "five",
-        "score": 0.6060054806874821,
-        "reasons": [
-          "contextFit:0.606",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.92:pref:high:fit:0.92"
-        ]
-      },
-      {
-        "wordId": "word_today",
-        "lemma": "today",
-        "score": 0.6100248944688157,
-        "reasons": [
-          "contextFit:0.610",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.93:pref:high:fit:0.93"
-        ]
-      },
-      {
-        "wordId": "word_and",
-        "lemma": "and",
-        "score": 0.6328318337552155,
-        "reasons": [
-          "contextFit:0.633",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_one",
-        "lemma": "one",
-        "score": 0.6293369923181267,
-        "reasons": [
-          "contextFit:0.629",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
-        ]
-      },
-      {
-        "wordId": "word_in",
-        "lemma": "in",
-        "score": 0.6324286112066105,
-        "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
-        ]
-      },
-      {
-        "wordId": "word_two",
-        "lemma": "two",
-        "score": 0.6225078426832975,
-        "reasons": [
-          "contextFit:0.623",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.97:pref:high:fit:0.97"
-        ]
-      },
-      {
-        "wordId": "word_she",
-        "lemma": "she",
-        "score": 0.6302511215541551,
-        "reasons": [
-          "contextFit:0.630",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.99:pref:high:fit:0.99"
+          "contextFit:0.975",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
         ]
       },
       {
         "wordId": "word_mother",
         "lemma": "mother",
-        "score": 0.6129482282111826,
+        "score": 0.9694223423167738,
         "reasons": [
-          "contextFit:0.613",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.969",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_one",
+        "lemma": "one",
+        "score": 0.9940054884771901,
+        "reasons": [
+          "contextFit:0.994",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
+        ]
+      },
+      {
+        "wordId": "word_in",
+        "lemma": "in",
+        "score": 0.9986429168099157,
+        "reasons": [
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      },
+      {
+        "wordId": "word_man",
+        "lemma": "man",
+        "score": 0.9898917675783812,
+        "reasons": [
+          "contextFit:0.990",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.98:pref:high:fit:0.98"
+        ]
+      },
+      {
+        "wordId": "word_long",
+        "lemma": "long",
+        "score": 0.9760211483991819,
+        "reasons": [
+          "contextFit:0.976",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
+        ]
+      },
+      {
+        "wordId": "word_no",
+        "lemma": "no",
+        "score": 0.9970463925989324,
+        "reasons": [
+          "contextFit:0.997",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
         ]
       }
     ],
@@ -767,154 +137,115 @@
       {
         "wordId": "word_father",
         "lemma": "father",
-        "score": 0.6149739266613846,
+        "score": 0.972460889992077,
         "reasons": [
-          "contextFit:0.615",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.972",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.94:pref:high:fit:0.94"
         ]
       },
       {
-        "wordId": "word_juice",
-        "lemma": "juice",
-        "score": 0.5057824723475378,
+        "wordId": "word_she",
+        "lemma": "she",
+        "score": 0.9953766823312327,
         "reasons": [
-          "contextFit:0.506",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.20",
-          "difficulty:pref:easy:fit:0.80",
-          "frequency:0.72:pref:high:fit:0.72"
+          "contextFit:0.995",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
         ]
       },
       {
-        "wordId": "word_five",
-        "lemma": "five",
-        "score": 0.6060054806874821,
+        "wordId": "word_new",
+        "lemma": "new",
+        "score": 0.9765031993248504,
         "reasons": [
-          "contextFit:0.606",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.92:pref:high:fit:0.92"
+          "contextFit:0.977",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
         ]
       },
       {
-        "wordId": "word_today",
-        "lemma": "today",
-        "score": 0.6100248944688157,
+        "wordId": "word_big",
+        "lemma": "big",
+        "score": 0.9751047155531778,
         "reasons": [
-          "contextFit:0.610",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.93:pref:high:fit:0.93"
+          "contextFit:0.975",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
         ]
       },
       {
-        "wordId": "word_and",
-        "lemma": "and",
-        "score": 0.6328318337552155,
+        "wordId": "word_mother",
+        "lemma": "mother",
+        "score": 0.9694223423167738,
         "reasons": [
-          "contextFit:0.633",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:1.00:pref:high:fit:1.00"
+          "contextFit:0.969",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
         ]
       },
       {
         "wordId": "word_one",
         "lemma": "one",
-        "score": 0.6293369923181267,
+        "score": 0.9940054884771901,
         "reasons": [
-          "contextFit:0.629",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.994",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.99:pref:high:fit:0.99"
         ]
       },
       {
         "wordId": "word_in",
         "lemma": "in",
-        "score": 0.6324286112066105,
+        "score": 0.9986429168099157,
         "reasons": [
-          "contextFit:0.632",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:1.00:pref:high:fit:1.00"
         ]
       },
       {
-        "wordId": "word_two",
-        "lemma": "two",
-        "score": 0.6225078426832975,
+        "wordId": "word_man",
+        "lemma": "man",
+        "score": 0.9898917675783812,
         "reasons": [
-          "contextFit:0.623",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.97:pref:high:fit:0.97"
+          "contextFit:0.990",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.98:pref:high:fit:0.98"
         ]
       },
       {
-        "wordId": "word_she",
-        "lemma": "she",
-        "score": 0.6302511215541551,
+        "wordId": "word_long",
+        "lemma": "long",
+        "score": 0.9760211483991819,
         "reasons": [
-          "contextFit:0.630",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
+          "contextFit:0.976",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
+        ]
+      },
+      {
+        "wordId": "word_no",
+        "lemma": "no",
+        "score": 0.9970463925989324,
+        "reasons": [
+          "contextFit:0.997",
+          "tag:none",
+          "difficulty:mixed",
           "frequency:0.99:pref:high:fit:0.99"
         ]
-      },
-      {
-        "wordId": "word_mother",
-        "lemma": "mother",
-        "score": 0.6129482282111826,
-        "reasons": [
-          "contextFit:0.613",
-          "tag:miss:feat-changkao",
-          "tag:0/1",
-          "difficulty:explicit:0.10",
-          "difficulty:pref:easy:fit:0.90",
-          "frequency:0.94:pref:high:fit:0.94"
-        ]
       }
     ],
-    "teacherActions": [
-      {
-        "type": "keep",
-        "wordId": "word_OK",
-        "replacementWordId": null,
-        "at": "2026-10-08T20:46:42.091Z"
-      },
-      {
-        "type": "remove",
-        "wordId": "word_your",
-        "replacementWordId": "word_juice",
-        "at": "2026-10-08T20:46:42.096Z"
-      },
-      {
-        "type": "replace",
-        "wordId": "word_OK",
-        "replacementWordId": "word_father",
-        "at": "2026-10-08T20:46:42.105Z"
-      }
-    ],
-    "createdAt": "2026-10-08T20:46:42.135Z"
+    "teacherActions": [],
+    "createdAt": "2026-10-11T22:52:11.612Z"
   }
 ]

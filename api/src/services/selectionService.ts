@@ -6,6 +6,7 @@ import type {
   FrequencyPreference,
   SelectionContext,
   SelectionEvent,
+  RankedCandidate,
   SelectionSession,
   TeacherAction,
   VocabularyLevel,
@@ -196,12 +197,17 @@ function takeReplacementFromPools(session: SelectionSession, replacementWordId: 
     takeByWordId(session.recommendedWords, replacementWordId) ??
     takeByWordId(session.otherWords, replacementWordId);
   if (!next) {
-    if (session.usedWords.includes(replacementWordId)) {
-      throw new HttpError(409, "replacementWordId was already used in this session.");
-    }
     throw new HttpError(404, "replacementWordId is not in the leftover pools.");
   }
   return next;
+}
+
+/** Keep a word that left the visible list so a teacher can choose it again. Auto-fill still skips usedWords. */
+function parkLeavingWord(session: SelectionSession, leaving: RankedCandidate) {
+  const parked =
+    session.otherWords.some((item) => item.wordId === leaving.wordId) ||
+    session.recommendedWords.some((item) => item.wordId === leaving.wordId);
+  if (!parked) session.otherWords.push(leaving);
 }
 
 export function applyAction(id: string, body: unknown) {
@@ -255,6 +261,7 @@ export function applyAction(id: string, body: unknown) {
     }
   }
 
+  parkLeavingWord(session, session.visible[index]!);
   markUsed(session, wordId);
   markUsed(session, next.wordId);
   action.replacementWordId = next.wordId;

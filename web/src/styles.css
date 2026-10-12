@@ -1,0 +1,150 @@
+:root {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  line-height: 1.5;
+  color: #1c1917;
+  background: #faf7f2;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 0 0 0.35rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.5rem;
+}
+
+button {
+  font: inherit;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #d6d3d1;
+  border-radius: 4px;
+  background: #fff;
+  color: inherit;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.error {
+  color: #9f1239;
+}
+
+.health {
+  color: #57534e;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+section p {
+  margin: 0.25rem 0;
+}
+
+.field {
+  border: 0;
+  margin: 0 0 1.25rem;
+  padding: 0;
+}
+
+.field legend {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.option-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.option-box {
+  position: relative;
+  border: 1px solid #d6d3d1;
+  border-radius: 4px;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+  background: #fff;
+}
+
+.option-box input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+
+.option-box:has(input:checked) {
+  background: #1c1917;
+  color: #faf7f2;
+  border-color: #1c1917;
+}
+
+.tag-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hint {
+  margin: 0 0 0.5rem;
+  color: #57534e;
+}
+
+.candidate-list {
+  padding-left: 1.25rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.candidate-list li {
+  margin: 0 0 0.85rem;
+}
+
+.candidate-list li strong {
+  font-size: 1.05rem;
+}
+
+.reasons {
+  color: #57534e;
+  font-size: 0.85rem;
+}
+
+.row-actions,
+.replace-panel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.4rem 0 0.8rem;
+}
+
+.replace-panel {
+  display: block;
+  padding: 0.5rem 0 0.25rem;
+}
+
+.other-pick {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 0.6rem 0;
+}
