@@ -247,5 +247,267 @@
     ],
     "teacherActions": [],
     "createdAt": "2026-10-11T22:52:11.612Z"
+  },
+  {
+    "id": "evt_f4ff83ab-08f1-49dc-ab08-b82ff336dc40",
+    "selectionContext": {
+      "vocabularyScope": "人教版",
+      "levelRange": {
+        "from": {
+          "grade": 3,
+          "term": null
+        },
+        "to": {
+          "grade": 3,
+          "term": null
+        }
+      },
+      "activity": "dictation",
+      "count": 10,
+      "preferredFeatureIds": [],
+      "difficultyPreference": "mixed",
+      "frequencyPreference": "high"
+    },
+    "strategyId": "RULE_VDEMO",
+    "strategyVersion": "1",
+    "initialCandidates": [
+      {
+        "wordId": "word_one",
+        "lemma": "one",
+        "score": 0.9940054884771901,
+        "reasons": [
+          "contextFit:0.994",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
+        ]
+      },
+      {
+        "wordId": "word_two",
+        "lemma": "two",
+        "score": 0.9837617640249462,
+        "reasons": [
+          "contextFit:0.984",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.97:pref:high:fit:0.97"
+        ]
+      },
+      {
+        "wordId": "word_and",
+        "lemma": "and",
+        "score": 0.9992477506328232,
+        "reasons": [
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      },
+      {
+        "wordId": "word_so",
+        "lemma": "so",
+        "score": 0.9956301691273182,
+        "reasons": [
+          "contextFit:0.996",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
+        ]
+      },
+      {
+        "wordId": "word_boy",
+        "lemma": "boy",
+        "score": 0.970288012583346,
+        "reasons": [
+          "contextFit:0.970",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_girl",
+        "lemma": "girl",
+        "score": 0.9713272646076647,
+        "reasons": [
+          "contextFit:0.971",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_dad",
+        "lemma": "dad",
+        "score": 0.9686191451466453,
+        "reasons": [
+          "contextFit:0.969",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_big",
+        "lemma": "big",
+        "score": 0.9751047155531778,
+        "reasons": [
+          "contextFit:0.975",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
+        ]
+      },
+      {
+        "wordId": "word_man",
+        "lemma": "man",
+        "score": 0.9898917675783812,
+        "reasons": [
+          "contextFit:0.990",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.98:pref:high:fit:0.98"
+        ]
+      },
+      {
+        "wordId": "word_in",
+        "lemma": "in",
+        "score": 0.9986429168099157,
+        "reasons": [
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      }
+    ],
+    "finalSelection": [
+      {
+        "wordId": "word_he",
+        "lemma": "he",
+        "score": 0.9981409718578869,
+        "reasons": [
+          "contextFit:0.998",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      },
+      {
+        "wordId": "word_on",
+        "lemma": "on",
+        "score": 0.9976323546197997,
+        "reasons": [
+          "contextFit:0.998",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      },
+      {
+        "wordId": "word_and",
+        "lemma": "and",
+        "score": 0.9992477506328232,
+        "reasons": [
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      },
+      {
+        "wordId": "word_so",
+        "lemma": "so",
+        "score": 0.9956301691273182,
+        "reasons": [
+          "contextFit:0.996",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.99:pref:high:fit:0.99"
+        ]
+      },
+      {
+        "wordId": "word_boy",
+        "lemma": "boy",
+        "score": 0.970288012583346,
+        "reasons": [
+          "contextFit:0.970",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_girl",
+        "lemma": "girl",
+        "score": 0.9713272646076647,
+        "reasons": [
+          "contextFit:0.971",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_dad",
+        "lemma": "dad",
+        "score": 0.9686191451466453,
+        "reasons": [
+          "contextFit:0.969",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.94:pref:high:fit:0.94"
+        ]
+      },
+      {
+        "wordId": "word_big",
+        "lemma": "big",
+        "score": 0.9751047155531778,
+        "reasons": [
+          "contextFit:0.975",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.95:pref:high:fit:0.95"
+        ]
+      },
+      {
+        "wordId": "word_man",
+        "lemma": "man",
+        "score": 0.9898917675783812,
+        "reasons": [
+          "contextFit:0.990",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:0.98:pref:high:fit:0.98"
+        ]
+      },
+      {
+        "wordId": "word_in",
+        "lemma": "in",
+        "score": 0.9986429168099157,
+        "reasons": [
+          "contextFit:0.999",
+          "tag:none",
+          "difficulty:mixed",
+          "frequency:1.00:pref:high:fit:1.00"
+        ]
+      }
+    ],
+    "teacherActions": [
+      {
+        "type": "replace",
+        "wordId": "word_one",
+        "replacementWordId": "word_he",
+        "at": "2026-10-14T03:12:05.169Z"
+      },
+      {
+        "type": "remove",
+        "wordId": "word_two",
+        "replacementWordId": "word_on",
+        "at": "2026-10-14T03:12:26.779Z"
+      }
+    ],
+    "createdAt": "2026-10-14T03:12:33.173Z"
   }
 ]

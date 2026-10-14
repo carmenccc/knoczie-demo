@@ -1,7 +1,7 @@
 # Frontend Development Guidelines (current stage)
 
 ## Project Goal
-This is a simple teacher-facing dictation word-selection web application using React and TypeScript. The frontend should consume the existing backend APIs. Current version is for demo only, used to explain concept to stake holder and get feedback for next iteratin.
+This is a simple teacher-facing dictation word-selection web application using React and TypeScript. The frontend should consume the existing backend APIs.  Do not change the backend without asking for confirm. Current version is for demo only, used to explain concept and attract stake holders.
 
 ## Code Readability
 - Prioritize readability, explicit logic, and maintainability over clever or overly abstract solutions.
@@ -23,13 +23,12 @@ This is a simple teacher-facing dictation word-selection web application using R
 
 ## Scope Control
 - Implement only explicitly requested features.
-- Do not change existing backend behavior or refactor unrelated files.
-- Do not add a routing library, global state library, or UI framework unless there's a obvious benefit for the current project scope (need to be explanable).
+- Do not change existing backend behavior or refactor unrelated files without asking for confirm.
+- Do not add UI framework unless there's a obvious benefit for the current project scope (need to be explanable).
 - Preserve existing API contracts. Do not guess endpoint paths, request fields, or response shapes.
 - Prefer implementing one functional slice at a time.
 
 #Constraints:
-- Prefer simple React components and standard hooks.
 - Keep API calls separate from UI components.
 - Do not duplicate backend business logic.
 - Do not introduce unnecessary libraries or abstractions.

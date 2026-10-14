@@ -1,5 +1,6 @@
 import { useState, type FormEvent } from "react";
 import type { DifficultyPreference, FrequencyPreference, SelectionContext } from "../api/types.ts";
+import { Icon } from "../components/Icon.tsx";
 import {
   ACTIVITY_OPTIONS,
   DIFFICULTY_OPTIONS,
@@ -16,6 +17,20 @@ type GenerateFormProps = {
   onSubmit: (context: SelectionContext) => void;
 };
 
+const LABELS: Record<string, string> = {
+  dictation: "Dictation",
+  mixed: "Mixed",
+  easy: "Easy",
+  medium: "Medium",
+  hard: "Hard",
+  high: "High",
+  low: "Low",
+};
+
+function labelFor(value: string) {
+  return LABELS[value] ?? value;
+}
+
 function termKey(term: 1 | 2 | null): string {
   return term == null ? "full" : String(term);
 }
@@ -30,18 +45,8 @@ export function GenerateForm({ submitting, error, onSubmit }: GenerateFormProps)
   const [frequencyPreference, setFrequencyPreference] = useState<FrequencyPreference>("high");
   const [tagIds, setTagIds] = useState<string[]>([]);
 
-  function addTag() {
-    const next = TAG_OPTIONS.find((tag) => !tagIds.includes(tag.id));
-    if (!next) return;
-    setTagIds([...tagIds, next.id]);
-  }
-
-  function changeTag(index: number, id: string) {
-    setTagIds(tagIds.map((current, i) => (i === index ? id : current)));
-  }
-
-  function removeTag(index: number) {
-    setTagIds(tagIds.filter((_, i) => i !== index));
+  function toggleTag(id: string) {
+    setTagIds((current) => (current.includes(id) ? current.filter((item) => item !== id) : [...current, id]));
   }
 
   function handleSubmit(event: FormEvent) {
@@ -58,100 +63,117 @@ export function GenerateForm({ submitting, error, onSubmit }: GenerateFormProps)
     });
   }
 
-  const unusedTagCount = TAG_OPTIONS.filter((tag) => !tagIds.includes(tag.id)).length;
+  const wordCount = Number.isFinite(count) && count > 0 ? count : null;
 
   return (
-    <form onSubmit={handleSubmit}>
-      <OptionBoxes
-        legend="Activity"
-        name="activity"
-        value={activity}
-        options={ACTIVITY_OPTIONS.map((value) => ({ value, label: value }))}
-        onChange={setActivity}
-      />
-      <OptionBoxes
-        legend="Vocabulary scope"
-        name="vocabularyScope"
-        value={vocabularyScope}
-        options={SCOPE_OPTIONS.map((value) => ({ value, label: value }))}
-        onChange={setVocabularyScope}
-      />
-      <OptionBoxes
-        legend="Grade"
-        name="grade"
-        value={String(grade)}
-        options={GRADE_OPTIONS.map((value) => ({ value: String(value), label: String(value) }))}
-        onChange={(value) => setGrade(Number(value) as (typeof GRADE_OPTIONS)[number])}
-      />
-      <OptionBoxes
-        legend="Term"
-        name="term"
-        value={termKey(term)}
-        options={TERM_OPTIONS.map((option) => ({ value: termKey(option.term), label: option.label }))}
-        onChange={(value) => {
-          if (value === "1") setTerm(1);
-          else if (value === "2") setTerm(2);
-          else setTerm(null);
-        }}
-      />
-
-      <fieldset className="field">
-        <legend>Count</legend>
-        <input
-          type="number"
-          min={1}
-          max={50}
-          value={count}
-          onChange={(event) => setCount(Number(event.target.value))}
+    <form className="configure-form" onSubmit={handleSubmit}>
+      <div className="learner-strip">
+        <span className="learner-badge" aria-hidden="true">
+          SL
+        </span>
+        <div>
+          <small>Learner</small>
+          <strong>Sample learner</strong>
+        </div>
+        <span className="learner-pill">Placeholder profile</span>
+      </div>
+      <div className="configure-grid">
+        <ChipGroup
+          legend="Activity"
+          name="activity"
+          value={activity}
+          options={ACTIVITY_OPTIONS.map((value) => ({ value, label: labelFor(value) }))}
+          onChange={setActivity}
         />
-      </fieldset>
-
-      <OptionBoxes
-        legend="Difficulty"
-        name="difficulty"
-        value={difficultyPreference}
-        options={DIFFICULTY_OPTIONS.map((value) => ({ value, label: value }))}
-        onChange={setDifficultyPreference}
-      />
-      <OptionBoxes
-        legend="Frequency"
-        name="frequency"
-        value={frequencyPreference}
-        options={FREQUENCY_OPTIONS.map((value) => ({ value, label: value }))}
-        onChange={setFrequencyPreference}
-      />
-
-      <fieldset className="field">
-        <legend>Tags</legend>
-        {tagIds.length === 0 ? <p className="hint">No tags added.</p> : null}
-        {tagIds.map((tagId, index) => (
-          <div className="tag-row" key={`${tagId}-${index}`}>
-            <select value={tagId} onChange={(event) => changeTag(index, event.target.value)}>
-              {TAG_OPTIONS.filter((tag) => tag.id === tagId || !tagIds.includes(tag.id)).map((tag) => (
-                <option key={tag.id} value={tag.id}>
+        <ChipGroup
+          legend="Vocabulary scope"
+          name="vocabularyScope"
+          value={vocabularyScope}
+          options={SCOPE_OPTIONS.map((value) => ({ value, label: value }))}
+          onChange={setVocabularyScope}
+        />
+        <ChipGroup
+          legend="Grade"
+          name="grade"
+          value={String(grade)}
+          options={GRADE_OPTIONS.map((value) => ({ value: String(value), label: String(value) }))}
+          onChange={(value) => setGrade(Number(value) as (typeof GRADE_OPTIONS)[number])}
+        />
+        <ChipGroup
+          legend="Term"
+          name="term"
+          value={termKey(term)}
+          options={TERM_OPTIONS.map((option) => ({ value: termKey(option.term), label: option.label }))}
+          onChange={(value) => {
+            if (value === "1") setTerm(1);
+            else if (value === "2") setTerm(2);
+            else setTerm(null);
+          }}
+        />
+        <ChipGroup
+          legend="Difficulty"
+          name="difficulty"
+          value={difficultyPreference}
+          options={DIFFICULTY_OPTIONS.map((value) => ({ value, label: labelFor(value) }))}
+          onChange={setDifficultyPreference}
+        />
+        <ChipGroup
+          legend="Frequency"
+          name="frequency"
+          value={frequencyPreference}
+          options={FREQUENCY_OPTIONS.map((value) => ({ value, label: labelFor(value) }))}
+          onChange={setFrequencyPreference}
+        />
+        <fieldset className="field">
+          <legend>Count</legend>
+          <input
+            className="count-input"
+            type="number"
+            min={1}
+            max={50}
+            value={count}
+            onChange={(event) => setCount(Number(event.target.value))}
+          />
+        </fieldset>
+        <fieldset className="field configure-tags">
+          <legend>
+            Tags <small>Optional</small>
+          </legend>
+          <div className="chip-row">
+            {TAG_OPTIONS.map((tag) => {
+              const selected = tagIds.includes(tag.id);
+              return (
+                <label key={tag.id} className={`chip ${selected ? "chip-selected" : ""}`}>
+                  <input
+                    type="checkbox"
+                    name="tags"
+                    value={tag.id}
+                    checked={selected}
+                    onChange={() => toggleTag(tag.id)}
+                  />
                   {tag.name}
-                </option>
-              ))}
-            </select>
-            <button type="button" onClick={() => removeTag(index)}>
-              Remove
-            </button>
+                  {selected ? <Icon name="check" size={14} /> : null}
+                </label>
+              );
+            })}
           </div>
-        ))}
-        <button type="button" onClick={addTag} disabled={unusedTagCount === 0}>
-          Add tag
+        </fieldset>
+      </div>
+      {error ? <p className="error configure-error">{error}</p> : null}
+      <div className="configure-footer">
+        <span className="configure-ready">
+          <Icon name="spark" size={16} />
+          {wordCount ? `Ready to generate ${wordCount} words` : "Ready to generate a word list"}
+        </span>
+        <button className="generate-action" type="submit" disabled={submitting}>
+          {submitting ? "Generating…" : "Generate Dictation List"}
         </button>
-      </fieldset>
-
-      {error ? <p className="error">{error}</p> : null}
-      <button type="submit" disabled={submitting}>
-        {submitting ? "Generating…" : "Generate words"}
-      </button>
+      </div>
     </form>
   );
 }
 
-type OptionBoxesProps<T extends string> = {
+type ChipGroupProps<T extends string> = {
   legend: string;
   name: string;
   value: T;
@@ -159,23 +181,27 @@ type OptionBoxesProps<T extends string> = {
   onChange: (value: T) => void;
 };
 
-function OptionBoxes<T extends string>({ legend, name, value, options, onChange }: OptionBoxesProps<T>) {
+function ChipGroup<T extends string>({ legend, name, value, options, onChange }: ChipGroupProps<T>) {
   return (
     <fieldset className="field">
       <legend>{legend}</legend>
-      <div className="option-row">
-        {options.map((option) => (
-          <label key={option.value} className="option-box">
-            <input
-              type="radio"
-              name={name}
-              value={option.value}
-              checked={option.value === value}
-              onChange={() => onChange(option.value)}
-            />
-            {option.label}
-          </label>
-        ))}
+      <div className="chip-row">
+        {options.map((option) => {
+          const selected = option.value === value;
+          return (
+            <label key={option.value} className={`chip ${selected ? "chip-selected" : ""}`}>
+              <input
+                type="radio"
+                name={name}
+                value={option.value}
+                checked={selected}
+                onChange={() => onChange(option.value)}
+              />
+              {option.label}
+              {selected ? <Icon name="check" size={14} /> : null}
+            </label>
+          );
+        })}
       </div>
     </fieldset>
   );
